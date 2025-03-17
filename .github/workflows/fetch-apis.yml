@@ -1,0 +1,45 @@
+name: Fetch APIs and Log Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  fetch-and-log:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4  # Get latest repo state
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install axios fs-extra
+
+      - name: Fetch APIs and Save Data
+        env:
+          API_TOKEN: ${{ secrets.API_TOKEN }}  # ✅ Pass API token as an environment variable
+        run: node fetchApis.js
+
+      - name: Debug File Changes
+        run: |
+          ls -la logs/
+          git status
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_PAT: ${{ secrets.PAT_TOKEN }}  # Use PAT instead of GITHUB_TOKEN
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
+          git remote set-url origin https://x-access-token:$GITHUB_PAT@github.com/${{ github.repository }}
+          git add logs/*.json
+          git diff --cached --quiet || git commit -m "Updated API logs [$(date)]"
+          git push || echo "No changes to push"
+
+
