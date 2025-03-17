@@ -893,7 +893,11 @@
           "7": "1349849614102036581_1350198966209216522"
         }
       }
-    ]
+    ],
+    "banner_asset": {
+      "animated": "https://cdn.discordapp.com/assets/content/6f72be1e45f627e6b43894ca7dcda02c2851a3120a643a85c5132e87af6b50c4.webm",
+      "static": null
+    }
   },
   {
     "sku_id": "1344802365307621427",
