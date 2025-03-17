@@ -11,13 +11,22 @@ if (!API_TOKEN) {
 
 // List of APIs to fetch
 const apis = [
-    { name: 'api1', url: 'https://shop-archives-api.vercel.app/api/miscellaneous-categories' },
-    { name: 'api2', url: 'https://shop-archives-api.vercel.app/api/orbs-shop-default' }
+    { name: 'collectibles-categories', url: 'https://shop-archives-api.vercel.app/api/collectibles-categories' },
+    { name: 'consumables', url: 'https://shop-archives-api.vercel.app/api/consumables' },
+    { name: 'downloads', url: 'https://shop-archives-api.vercel.app/api/downloads' },
+    { name: 'miscellaneous-categories', url: 'https://shop-archives-api.vercel.app/api/miscellaneous-categories' },
+    { name: 'orbs-shop-default', url: 'https://shop-archives-api.vercel.app/api/orbs-shop-default' },
+    { name: 'preview-1', url: 'https://shop-archives-api.vercel.app/api/preview-1' },
+    { name: 'preview-3', url: 'https://shop-archives-api.vercel.app/api/preview-3' },
+    { name: 'profiles-plus-categories', url: 'https://shop-archives-api.vercel.app/api/profiles-plus-categories' },
+    { name: 'profiles-plus-profile-effects', url: 'https://shop-archives-api.vercel.app/api/profiles-plus-profile-effects' },
+    { name: 'quick-info', url: 'https://shop-archives-api.vercel.app/api/quick-info' },
+    { name: 'user-profile-effects', url: 'https://shop-archives-api.vercel.app/api/user-profile-effects' },
 ];
 
 async function fetchData() {
   try {
-    const logsDir = path.join(__dirname, 'logs');
+    const logsDir = path.join(__dirname, 'public');
     await fs.ensureDir(logsDir);  // Ensure directory exists
 
     for (const api of apis) {
