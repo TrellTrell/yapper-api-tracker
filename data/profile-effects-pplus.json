@@ -1,0 +1,340 @@
+{
+    "profile_effect_configs": [
+        {
+            "type": 1,
+            "id": "5",
+            "sku_id": "4",
+            "title": "Legacy Smiley",
+            "description": "Hes got my Avatar!",
+            "accessibilityLabel": "Hes got my Avatar!",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "15",
+            "sku_id": "14",
+            "title": "Arrow Rain",
+            "description": "Dodge and weave.",
+            "accessibilityLabel": "Dodge and weave.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/2.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/8.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/3.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "17",
+            "sku_id": "16",
+            "title": "Engine Madness",
+            "description": "Don’t get squished!",
+            "accessibilityLabel": "Don’t get squished!",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/6.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/9.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/bopl-battle/profile-effects/7.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "30",
+            "sku_id": "29",
+            "title": "Sunshine",
+            "description": "A relaxing day at the beach.",
+            "accessibilityLabel": "A relaxing day at the beach.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/1.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/3.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/2.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "32",
+            "sku_id": "31",
+            "title": "Not Today",
+            "description": "No time for fun beach activities.",
+            "accessibilityLabel": "No time for fun beach activities.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/4.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/7.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/8.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "34",
+            "sku_id": "33",
+            "title": "Digging",
+            "description": "Let’s dig for treasure.",
+            "accessibilityLabel": "Let’s dig for treasure.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/13.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/14.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/15.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "43",
+            "sku_id": "42",
+            "title": "Orb Array",
+            "description": "What is this strange formation?",
+            "accessibilityLabel": "What is this strange formation?",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/16.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/18.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/17.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "45",
+            "sku_id": "44",
+            "title": "Smiley",
+            "description": "Quick! Click the X!",
+            "accessibilityLabel": "Quick! Click the X!",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/9.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/11.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "47",
+            "sku_id": "46",
+            "title": "Wyrm Attack",
+            "description": "It’s like Centipede, go for the head!",
+            "accessibilityLabel": "It’s like Centipede, go for the head!",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/7.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/12.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/8.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "49",
+            "sku_id": "48",
+            "title": "Miasma",
+            "description": "Don’t let it infect your profile.",
+            "accessibilityLabel": "Don’t let it infect your profile.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/13.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/15.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/14.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 0,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "81",
+            "sku_id": "80",
+            "title": "High Tide",
+            "description": "Don’t get washed away!",
+            "accessibilityLabel": "Don’t get washed away!",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/16.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/16.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/paper-beach/profile-effects/17.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 0,
+                    "loopDelay": 2880,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "84",
+            "sku_id": "83",
+            "title": "Guiding lights",
+            "description": "Here to guide you on your journey.",
+            "accessibilityLabel": "Here to guide you on your journey.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.yapper.shop/custom-collectibles/rbxdoors/profile-effects/1.png",
+            "reducedMotionSrc": "https://cdn.yapper.shop/custom-collectibles/rbxdoors/profile-effects/1.png",
+            "effects": [
+                {
+                    "src": "https://cdn.yapper.shop/custom-collectibles/rbxdoors/profile-effects/2.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 0,
+                    "loopDelay": 2880,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                }
+            ]
+        }
+    ]
+}
