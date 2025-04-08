@@ -13,6 +13,7 @@
                 "asset": "a_da532f804b47f1681006c2996eb07b2a",
                 "src": "https://cdn.discordapp.com/assets/collectibles/avatar/wumpus-with-headset.png",
                 "banner": null,
+                "category_sku_id": "1265375293397270650",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -60,6 +61,7 @@
                 "asset": "a_3d1e6078b2e4c8865e0ad0f429d651b1",
                 "src": "https://cdn.discordapp.com/assets/collectibles/avatar/phibi.png",
                 "banner": null,
+                "category_sku_id": "1266520267946201099",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -86,6 +88,7 @@
                 "asset": "a_37dc2b53b273a457ff19ac2e3fda7e4c",
                 "src": "https://cdn.discordapp.com/assets/collectibles/avatar/phibi.png",
                 "banner": null,
+                "category_sku_id": "1277733175191277721",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -112,6 +115,7 @@
                 "asset": "a_eb003dc2b5c6d85c8e18cc9336fcdad3",
                 "src": "https://cdn.discordapp.com/assets/content/4eefdc8f547004f73f2a7d2ef659153d5340cd267e3eb0bbfcb013b5d54ecd0d.png",
                 "banner": null,
+                "category_sku_id": "1282816432056569866",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -138,6 +142,7 @@
                 "asset": "a_68cb6c21d6222cd9285c08068f39873d",
                 "src": "https://cdn.discordapp.com/assets/content/7a2ae1ce20142f2bc7f8eeabc1524e03ec54a02fd7acdfc6eafbc596095b82e0.png",
                 "banner": "https://cdn.discordapp.com/assets/content/7decd6f5b615d3ec1d513f1485256706499a7084e03b0187a2c112ab9973f4f7.png",
+                "category_sku_id": "1285465421339693076",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -193,6 +198,7 @@
                 "asset": "a_c4395b178205217ad09cae605ef11b1a",
                 "src": "https://cdn.discordapp.com/assets/content/593ecbbcd2f86dd9f4977a2a7aa6269407f5c214fe3a4cf188fa18421000dca0.png",
                 "banner": "https://cdn.discordapp.com/assets/content/ff70fc1ec7c3faf0e058a0b05628c951319cc5cc552c2ab7ab25fb66f1330ba1.png",
+                "category_sku_id": "1287835634089594972",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -227,6 +233,7 @@
                 "asset": "a_3c5743cedcb72131c58278278a97c143",
                 "src": "https://cdn.discordapp.com/assets/content/d78a562bfd8202ee9a25f5250c913cdda9868e0169f5b080d2dfcacd8ba16640.png",
                 "banner": "https://cdn.discordapp.com/assets/content/57106693065d6104e759725b285a8f13ebe945433c7d07d11ea6a19e83b203f8.png",
+                "category_sku_id": "1293373563494993952",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -282,6 +289,7 @@
                 "asset": "a_4a7fd84b7eb866a3dacacfbcebb47673",
                 "src": "https://cdn.discordapp.com/assets/content/1f7530ebf408a06ab80906074269fe623ee42ff4af5ead72871de75785a7d051.png",
                 "banner": "https://cdn.discordapp.com/assets/content/11769ab41ab8d426b770ba72d0d25d2e344565133fe4ca057b503b6fb86220e3.png",
+                "category_sku_id": "1298033986811068497",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -316,6 +324,7 @@
                 "asset": "a_9bc421cef4bdcfffeb2344b44ad91b44",
                 "src": "https://cdn.discordapp.com/assets/content/02e96e77deb113b1885dff538602811fe89272d55c278f4cfff084c6c48c5643.png",
                 "banner": "https://cdn.discordapp.com/assets/content/aed161cb12d09b6f647f743cac557af1e3ed00dd3d9c55a9aa8c32d96b49324a.png",
+                "category_sku_id": "1303490165284802580",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -371,6 +380,7 @@
                 "asset": "a_5b1319abfc9f928479b68a73635f591d",
                 "src": "https://cdn.discordapp.com/assets/content/631475fead6c1db19440533e265aa5dd5d4549dbe4f0d02d367773dec958f8ec.png",
                 "banner": "https://cdn.discordapp.com/assets/content/8b90a7feb8e3a61a9703ea4de9b9d39d9e266fefe2d3d38afdffef39d2452985.png",
+                "category_sku_id": "1306330663213072494",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -406,6 +416,7 @@
                 "asset": "a_6649e251a23f24935471ee02c212675b",
                 "src": "https://cdn.discordapp.com/assets/content/d78a562bfd8202ee9a25f5250c913cdda9868e0169f5b080d2dfcacd8ba16640.png",
                 "banner": "https://cdn.discordapp.com/assets/content/f5eec43d49ecd413b56b668257ada6397675d775233e6306950dfeae93c075d4.png",
+                "category_sku_id": "1309668861943218229",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -460,6 +471,7 @@
                 "summary": null,
                 "asset": "a_92f6d18bf697c4b3ca1eb90e1d7936dd",
                 "src": "https://cdn.discordapp.com/assets/content/057b186324a174201b112de40b171c20142a81b7b1d6384a1543230425ba4a48.png",
+                "category_sku_id": "1314020997204283476",
                 "banner": null,
                 "raw": {
                     "marketings": {
@@ -487,6 +499,7 @@
                 "asset": "a_57587eee08d2709588773fb20401fe5f",
                 "src": "https://cdn.discordapp.com/assets/content/0079a06b74b1a08290d48f9b979db682316e4fec3902f128cd86314357aada9d.png",
                 "banner": "https://cdn.discordapp.com/assets/content/d60d0efe8a39eef3c88fffd8d2f67f2ba4a65fce89767cb21b4fb4ae0e7d33ba.png",
+                "category_sku_id": "1324454241254903829",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -521,6 +534,7 @@
                 "asset": "a_1acbe609daec21fa5b866df9e5a42cb7",
                 "src": "https://cdn.discordapp.com/assets/content/3ae7ba886659bfb09cf51024d1f64650ba76aa67d0b7dca353154f2a1e2731b3.png",
                 "banner": "https://cdn.discordapp.com/assets/content/4a19c62e82148f79cf966fcd42095834e6fcc9ed8cb234865fa533cd9018abf2.png",
+                "category_sku_id": "1326333074241486859",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -556,6 +570,7 @@
                 "asset": "a_d859cee893cffd5dd0fa17a6caea44e0",
                 "src": "https://cdn.discordapp.com/assets/content/72cc9cf0d6069e3774dd6cd0095f73fce1f700b4f9eacac30ae47c2242c95838.png",
                 "banner": "https://cdn.discordapp.com/assets/content/395518d61f60298061b8fd22e0f730406c32669feee22d4b920be497b5a12174.png",
+                "category_sku_id": "1202069709281828935",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -589,6 +604,7 @@
                 "asset": "a_fcb0de14da228879b455f1f1d3919749",
                 "src": "https://cdn.discordapp.com/assets/content/a7353cba43692e69caa11bcf3c9ed7951e3b5fc4b2979fe12a025ed7216cb3b3.png",
                 "banner": "https://cdn.discordapp.com/assets/content/3a49211826d9cdd632f84c78a384a1bdbfcef2cbe9d6dd258ace865eee880e23.png",
+                "category_sku_id": "1333278032999485461",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -644,6 +660,7 @@
                 "asset": "a_a1c0581971d4a296908829289fea2c47",
                 "src": "https://cdn.discordapp.com/assets/content/0f4ee362d733e1d6132719911c897fb4d167bc3eb98ac3265ad72eb7dceec551.png",
                 "banner": "https://cdn.discordapp.com/assets/content/0d6ebe2f2edec5ebbe4597a2a5d8eebca13550664cc3bbd6e35189c4a908efcb.png",
+                "category_sku_id": "1333866045521395723",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -699,6 +716,7 @@
                 "asset": "a_d23647f13e9b090dd17f67a31a93bf30",
                 "src": "https://cdn.discordapp.com/assets/content/3a5eae8b01fc65e1090133eaeeb470bc549e7d0479a9e58eb39ceb6a07d3c822.png",
                 "banner": "https://cdn.discordapp.com/assets/content/169bb2d1eb21be1e517d8fac4f8a48bc10e853291216b3053f36228a05aa76b3.png",
+                "category_sku_id": "1341506445249609728",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -736,6 +754,7 @@
                 "asset": "a_6d99f670de3fcee669660fe262e896ea",
                 "src": "https://cdn.discordapp.com/assets/content/6d26f18c31bcea9ee88c1d113477408c51ac0fb29013083f403ad965a09be230.png",
                 "banner": "https://cdn.discordapp.com/assets/content/038226848943dac18c031948b064d5a317c1193b1e812043efa68f76e3e4b811.png",
+                "category_sku_id": "1343751621364027462",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -770,6 +789,7 @@
                 "asset": "a_49ed38f73003e2e182f77190af0a0a56",
                 "src": "https://cdn.discordapp.com/assets/content/0358331ba56ab0c678c67df950001a08e2281a1c186a36f23d779d942a5a5127.png",
                 "banner": "https://cdn.discordapp.com/assets/content/19ca5221280999242ea901fa2016c7ca08bed083f0843a84533d60ad950073e7.png",
+                "category_sku_id": "1346499610977243196",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -828,6 +848,7 @@
                 "asset": "a_0e50ebc16aa67676687222d0b9b51eb2",
                 "src": "https://cdn.discordapp.com/assets/content/8aa0f3367cea8be575e303bdf0e19e9f3fff9628ee7016529c030148e497b1e6.png",
                 "banner": "https://cdn.discordapp.com/assets/content/4640d16a22609eabe4d7e0125808b589c867b870015a1c57af0f04c3b1414a11.png",
+                "category_sku_id": "1352407446500675708",
                 "raw": {
                     "marketings": {
                         "0": {
@@ -862,6 +883,7 @@
                 "asset": "a_b70f0a0cecf3097eae17a8f7d8c659a8",
                 "src": "https://cdn.discordapp.com/assets/content/f796fa9c02760f25e39b2011da141c745772ae144f5b32346be330a0b5b3823b.png",
                 "banner": "https://cdn.discordapp.com/assets/content/8cc59a7da47bc6eb16c4666ba615a48f4b5f0a2b654ac887b3e129c23cef55bc.png",
+                "category_sku_id": "1354894010849820852",
                 "raw": {
                     "marketings": {
                         "0": {
