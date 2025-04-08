@@ -47,7 +47,7 @@ async function fetchData() {
 
       // ✅ Debugging: Check if writing works
       console.log(`Writing to: ${filePath}`);
-      await fs.writeJson(filePath, response.data, { spaces: 2 });
+      await fs.writeJson(filePath, response.data, { spaces: 4 });
 
       // ✅ Verify file existence
       if (fs.existsSync(filePath)) {
