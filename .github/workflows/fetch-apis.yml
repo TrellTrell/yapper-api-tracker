@@ -43,6 +43,6 @@ jobs:
           # Use PAT to set the URL
           git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
           
-          git add public/*.json
+          git add data/*.json
           git diff --cached --quiet || git commit -m "Updated API logs [$(date)]"
           git push || echo "No changes to push"
