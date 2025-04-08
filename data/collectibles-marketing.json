@@ -11,154 +11,883 @@
                 "name": "Valorant Champions",
                 "summary": "Yoru, Viper, Cypher and a lil something extra. Come and see.",
                 "asset": "a_da532f804b47f1681006c2996eb07b2a",
-                "src": "https://cdn.discordapp.com/assets/collectibles/avatar/wumpus-with-headset.png"
+                "src": "https://cdn.discordapp.com/assets/collectibles/avatar/wumpus-with-headset.png",
+                "banner": null,
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 1,
+                            "title": "VALORANT’s Back",
+                            "body": "Yoru, Viper, Cypher and a lil something extra. Come and see.",
+                            "avatar": "https://cdn.discordapp.com/assets/collectibles/avatar/wumpus-with-headset.png",
+                            "decorations": [
+                                "a_da532f804b47f1681006c2996eb07b2a",
+                                "a_b1efe77f379c6c9c6e47e6b6299d5a7d",
+                                "a_62cd9d7c0031a7c1eb5ad5cc96992189"
+                            ],
+                            "dismissible_content": 426,
+                            "ref_target_background": {
+                                "style": {
+                                    "resting": {
+                                        "light": "linear-gradient(90deg, rgba(211, 211, 211, 0.00) 19.2%, rgba(211, 211, 211, 0.25) 61.36%, rgba(99, 5, 160, 0.50) 101.79%)",
+                                        "dark": "linear-gradient(90deg, rgba(0, 0, 0, 0.00) 18.53%, rgba(0, 0, 0, 0.25) 61.03%, rgba(99, 5, 160, 0.50) 101.79%)"
+                                    },
+                                    "hovered": {
+                                        "light": "linear-gradient(90deg, rgba(211, 211, 211, 0.00) 0%, rgba(211, 211, 211, 0.50) 52.53%, rgba(99, 5, 160, 0.80) 102.9%);",
+                                        "dark": "linear-gradient(90deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.50) 52.64%, #6305A0 103.12%)"
+                                    }
+                                },
+                                "asset": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": "https://cdn.discordapp.com/assets/collectibles/tab-background/2024-07-25/vine.png",
+                                        "dark": "https://cdn.discordapp.com/assets/collectibles/tab-background/2024-07-25/vine.png"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
             },
             {
                 "id": 2,
                 "name": "Dojo",
                 "summary": null,
                 "asset": "a_3d1e6078b2e4c8865e0ad0f429d651b1",
-                "src": "https://cdn.discordapp.com/assets/collectibles/avatar/phibi.png"
+                "src": "https://cdn.discordapp.com/assets/collectibles/avatar/phibi.png",
+                "banner": null,
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 2,
+                            "title": "Check out new Dojo arrivals",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/collectibles/avatar/phibi.png",
+                            "decorations": [
+                                "a_3d1e6078b2e4c8865e0ad0f429d651b1",
+                                "a_13913a00bd9990ab4102a3bf069f0f3f",
+                                "a_7cf09c7e78d6eb35ae354acc1d5cc676"
+                            ],
+                            "dismissible_content": 431,
+                            "ref_target_background": null
+                        }
+                    }
+                }
             },
             {
                 "id": 3,
                 "name": "The Vault",
                 "summary": null,
                 "asset": "a_37dc2b53b273a457ff19ac2e3fda7e4c",
-                "src": "https://cdn.discordapp.com/assets/collectibles/avatar/phibi.png"
+                "src": "https://cdn.discordapp.com/assets/collectibles/avatar/phibi.png",
+                "banner": null,
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 3,
+                            "title": "(‘Check out new arrivals in The Vault.’)",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/collectibles/avatar/phibi.png",
+                            "decorations": [
+                                "a_37dc2b53b273a457ff19ac2e3fda7e4c",
+                                "a_21c7a425b490017478a5558f33f33c63",
+                                "a_ea8e2e628bacdddb1ef18cb382aa454c"
+                            ],
+                            "dismissible_content": 441,
+                            "ref_target_background": null
+                        }
+                    }
+                }
             },
             {
                 "id": 4,
                 "name": "Autumn Equinox",
                 "summary": null,
                 "asset": "a_eb003dc2b5c6d85c8e18cc9336fcdad3",
-                "src": "https://cdn.discordapp.com/assets/content/4eefdc8f547004f73f2a7d2ef659153d5340cd267e3eb0bbfcb013b5d54ecd0d.png"
+                "src": "https://cdn.discordapp.com/assets/content/4eefdc8f547004f73f2a7d2ef659153d5340cd267e3eb0bbfcb013b5d54ecd0d.png",
+                "banner": null,
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 4,
+                            "title": "Check out new Autumn Equinox arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/4eefdc8f547004f73f2a7d2ef659153d5340cd267e3eb0bbfcb013b5d54ecd0d.png",
+                            "decorations": [
+                                "a_eb003dc2b5c6d85c8e18cc9336fcdad3",
+                                "a_fead934c894e95e070d8a0301f9f0b27",
+                                "a_a44e9335ea869639fdf812f3642a56a6"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        }
+                    }
+                }
             },
             {
                 "id": 5,
                 "name": "Street Fighter 6",
                 "summary": "Hit the streets with new Street Fighter items!",
                 "asset": "a_68cb6c21d6222cd9285c08068f39873d",
-                "src": "https://cdn.discordapp.com/assets/content/7a2ae1ce20142f2bc7f8eeabc1524e03ec54a02fd7acdfc6eafbc596095b82e0.png"
+                "src": "https://cdn.discordapp.com/assets/content/7a2ae1ce20142f2bc7f8eeabc1524e03ec54a02fd7acdfc6eafbc596095b82e0.png",
+                "banner": "https://cdn.discordapp.com/assets/content/7decd6f5b615d3ec1d513f1485256706499a7084e03b0187a2c112ab9973f4f7.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 5,
+                            "title": "Street Fighter 6",
+                            "body": "Hit the streets with new Street Fighter items!",
+                            "avatar": "https://cdn.discordapp.com/assets/content/7a2ae1ce20142f2bc7f8eeabc1524e03ec54a02fd7acdfc6eafbc596095b82e0.png",
+                            "decorations": [
+                                "a_68cb6c21d6222cd9285c08068f39873d",
+                                "a_bba133b88b21e1b4a36637335536c3a8",
+                                "a_1e8cb6070b13f775a41384c84c5a53e1"
+                            ],
+                            "dismissible_content": 449,
+                            "ref_target_background": {
+                                "style": {
+                                    "resting": {
+                                        "light": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 26.56%, rgba(255, 77, 0, 0.55) 66.59%, #FFFD00 100%)",
+                                        "dark": "linear-gradient(90deg, rgba(43, 45, 49, 0.00) 28.13%, rgba(255, 107, 0, 0.55) 67.3%, #FFFD00 100%)"
+                                    },
+                                    "hovered": {
+                                        "light": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 6.03%, rgba(255, 77, 0, 0.55) 57.24%, #FFFD00 100%)",
+                                        "dark": "linear-gradient(90deg, rgba(43, 45, 49, 0.00) 6.03%, rgba(255, 107, 0, 0.55) 57.24%, #FFFD00 100%)"
+                                    }
+                                },
+                                "asset": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": "https://cdn.discordapp.com/assets/content/b57054ec389f08b678de8863bca1e656c8239c114833667decac8bbc72e85d53.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/f43d480493a49313b351c0884ca3ec6c4ad7895104fb82f4a783e511e6290c76.png"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 5,
+                            "title": "Hit the streets with Street Fighter",
+                            "body": "Check out new avatar decorations and profile effects featuring Ryu, Chun Li, Akuma and more.",
+                            "asset": "https://cdn.discordapp.com/assets/content/7decd6f5b615d3ec1d513f1485256706499a7084e03b0187a2c112ab9973f4f7.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/dd902f75f0de4638b61450f54986714890ce08d0df84633715c9289b3aec1877.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 6,
                 "name": "Spooky Night",
                 "summary": null,
                 "asset": "a_c4395b178205217ad09cae605ef11b1a",
-                "src": "https://cdn.discordapp.com/assets/content/593ecbbcd2f86dd9f4977a2a7aa6269407f5c214fe3a4cf188fa18421000dca0.png"
+                "src": "https://cdn.discordapp.com/assets/content/593ecbbcd2f86dd9f4977a2a7aa6269407f5c214fe3a4cf188fa18421000dca0.png",
+                "banner": "https://cdn.discordapp.com/assets/content/ff70fc1ec7c3faf0e058a0b05628c951319cc5cc552c2ab7ab25fb66f1330ba1.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 6,
+                            "title": "Check out new Spooky Night arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/593ecbbcd2f86dd9f4977a2a7aa6269407f5c214fe3a4cf188fa18421000dca0.png",
+                            "decorations": [
+                                "a_c4395b178205217ad09cae605ef11b1a",
+                                "a_33656b7ed12cde00c1826b654cf65590",
+                                "a_5cc3476f582a5649e64ab0a95504c4e9"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 6,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/ff70fc1ec7c3faf0e058a0b05628c951319cc5cc552c2ab7ab25fb66f1330ba1.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/12e47d0bbb7bae9f325ea90cf457d47f3989344cc577137808a3de486b12f46d.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 7,
                 "name": "Dungeons & Dragons",
                 "summary": "Time to kick off the party, D&D style.",
                 "asset": "a_3c5743cedcb72131c58278278a97c143",
-                "src": "https://cdn.discordapp.com/assets/content/d78a562bfd8202ee9a25f5250c913cdda9868e0169f5b080d2dfcacd8ba16640.png"
+                "src": "https://cdn.discordapp.com/assets/content/d78a562bfd8202ee9a25f5250c913cdda9868e0169f5b080d2dfcacd8ba16640.png",
+                "banner": "https://cdn.discordapp.com/assets/content/57106693065d6104e759725b285a8f13ebe945433c7d07d11ea6a19e83b203f8.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 7,
+                            "title": "Roll with D&D!",
+                            "body": "Time to kick off the party, D&D style.",
+                            "avatar": "https://cdn.discordapp.com/assets/content/d78a562bfd8202ee9a25f5250c913cdda9868e0169f5b080d2dfcacd8ba16640.png",
+                            "decorations": [
+                                "a_3c5743cedcb72131c58278278a97c143",
+                                "a_66604bb5c9351541f30c20a4e78c239c",
+                                "a_a842a9cf76fdaf91a6354937b31ecdef"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": {
+                                "style": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": null,
+                                        "dark": null
+                                    }
+                                },
+                                "asset": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": "https://cdn.discordapp.com/assets/content/c85fc5aaa588630e9d4a2177bae46ac1a616161b8a2e467b6437d4133f7a6382.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/c85fc5aaa588630e9d4a2177bae46ac1a616161b8a2e467b6437d4133f7a6382.png"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 7,
+                            "title": "Buff up your profile with D&D.",
+                            "body": "Show off your adventurer’s spirit with new Dungeons & Dragons avatar decorations and profile effects!",
+                            "asset": "https://cdn.discordapp.com/assets/content/57106693065d6104e759725b285a8f13ebe945433c7d07d11ea6a19e83b203f8.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/ad39be73ccfabe2e28b31c8ce0cccfe0c368b5173d1103a730341edce1746bb4.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 8,
                 "name": "Mythical Creatures",
                 "summary": null,
                 "asset": "a_4a7fd84b7eb866a3dacacfbcebb47673",
-                "src": "https://cdn.discordapp.com/assets/content/1f7530ebf408a06ab80906074269fe623ee42ff4af5ead72871de75785a7d051.png"
+                "src": "https://cdn.discordapp.com/assets/content/1f7530ebf408a06ab80906074269fe623ee42ff4af5ead72871de75785a7d051.png",
+                "banner": "https://cdn.discordapp.com/assets/content/11769ab41ab8d426b770ba72d0d25d2e344565133fe4ca057b503b6fb86220e3.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 8,
+                            "title": "Check out new Mythical Creatures arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/1f7530ebf408a06ab80906074269fe623ee42ff4af5ead72871de75785a7d051.png",
+                            "decorations": [
+                                "a_4a7fd84b7eb866a3dacacfbcebb47673",
+                                "a_98c7600d304b86ca3b18272e1da05559",
+                                "a_0e839cd79500e7b68e2bbbed54790c28"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 8,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/11769ab41ab8d426b770ba72d0d25d2e344565133fe4ca057b503b6fb86220e3.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/c5df4b28a6624c28e2b70507fd14b5af8b6fc9074ff79002ed42fc82343e4925.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 9,
                 "name": "Arcane",
                 "summary": "Jinx, Ekko, Vi and more to be revealed...",
                 "asset": "a_9bc421cef4bdcfffeb2344b44ad91b44",
-                "src": "https://cdn.discordapp.com/assets/content/02e96e77deb113b1885dff538602811fe89272d55c278f4cfff084c6c48c5643.png"
+                "src": "https://cdn.discordapp.com/assets/content/02e96e77deb113b1885dff538602811fe89272d55c278f4cfff084c6c48c5643.png",
+                "banner": "https://cdn.discordapp.com/assets/content/aed161cb12d09b6f647f743cac557af1e3ed00dd3d9c55a9aa8c32d96b49324a.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 9,
+                            "title": "Arcane",
+                            "body": "Jinx, Ekko, Vi and more to be revealed…",
+                            "avatar": "https://cdn.discordapp.com/assets/content/02e96e77deb113b1885dff538602811fe89272d55c278f4cfff084c6c48c5643.png",
+                            "decorations": [
+                                "a_9bc421cef4bdcfffeb2344b44ad91b44",
+                                "a_cc1aab519baf2ab8cfa0151bed5263df",
+                                "a_dbb1abd90367c1a31a94f7e162f3a3c3"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": {
+                                "style": {
+                                    "resting": {
+                                        "light": "linear-gradient(90deg, rgba(200, 91, 241, 0.00) 18.75%, #C85BF1 108.26%)",
+                                        "dark": "linear-gradient(90deg, rgba(200, 91, 241, 0.00) 18.75%, #C85BF1 108.26%)"
+                                    },
+                                    "hovered": {
+                                        "light": null,
+                                        "dark": null
+                                    }
+                                },
+                                "asset": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": "https://cdn.discordapp.com/assets/content/7de83817a8ac73d5086feb1a3b4cf3871e0328e6436a6e3d82e0141c0912d900.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/7de83817a8ac73d5086feb1a3b4cf3871e0328e6436a6e3d82e0141c0912d900.png"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 9,
+                            "title": "Unleash the world of Arcane on your profile",
+                            "body": "Bring the madness and mayhem to your profile with new Arcane avatar decorations and profile effects.",
+                            "asset": "https://cdn.discordapp.com/assets/content/aed161cb12d09b6f647f743cac557af1e3ed00dd3d9c55a9aa8c32d96b49324a.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/2f91da30e4b0a684dabfb9f66684a18d250665fcc49cfd735cd455103605f792.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 11,
                 "name": "Kawaii Mode",
                 "summary": null,
                 "asset": "a_5b1319abfc9f928479b68a73635f591d",
-                "src": "https://cdn.discordapp.com/assets/content/631475fead6c1db19440533e265aa5dd5d4549dbe4f0d02d367773dec958f8ec.png"
+                "src": "https://cdn.discordapp.com/assets/content/631475fead6c1db19440533e265aa5dd5d4549dbe4f0d02d367773dec958f8ec.png",
+                "banner": "https://cdn.discordapp.com/assets/content/8b90a7feb8e3a61a9703ea4de9b9d39d9e266fefe2d3d38afdffef39d2452985.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 11,
+                            "title": "Check out new Kawaii Mode arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/631475fead6c1db19440533e265aa5dd5d4549dbe4f0d02d367773dec958f8ec.png",
+                            "decorations": [
+                                "a_5b1319abfc9f928479b68a73635f591d",
+                                "a_f081c6b2c85c5ebe5df42f1c24d45bb5",
+                                "a_09bb4197c743ea31b7eb052eddd3e892"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 11,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/8b90a7feb8e3a61a9703ea4de9b9d39d9e266fefe2d3d38afdffef39d2452985.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/f854bcb36abd7edfc64c219e1d531971ebc18eac8b69af3fe8b0e5e25d96114c.png",
+                            "revert_text_color": true
+                        }
+                    }
+                }
             },
             {
                 "id": 12,
                 "name": "Lofi Girl",
                 "summary": null,
                 "asset": "a_6649e251a23f24935471ee02c212675b",
-                "src": "https://cdn.discordapp.com/assets/content/d78a562bfd8202ee9a25f5250c913cdda9868e0169f5b080d2dfcacd8ba16640.png"
+                "src": "https://cdn.discordapp.com/assets/content/d78a562bfd8202ee9a25f5250c913cdda9868e0169f5b080d2dfcacd8ba16640.png",
+                "banner": "https://cdn.discordapp.com/assets/content/f5eec43d49ecd413b56b668257ada6397675d775233e6306950dfeae93c075d4.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 12,
+                            "title": "Check out new Lofi Girl arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/2944979011164b59513d125d03a498be2f5f5cb81f67a08bcafd661c6895bdd0.png",
+                            "decorations": [
+                                "a_6649e251a23f24935471ee02c212675b",
+                                "a_28fbe43ba1ee217576dee69712bbb628",
+                                "a_96f65d0aacc4a94b50ef7fb656d5826d"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": {
+                                "style": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": null,
+                                        "dark": null
+                                    }
+                                },
+                                "asset": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": "https://cdn.discordapp.com/assets/content/8655d05d0c4a393a46a82905a66c5ff8723cf807051b37229fc49008fcddbd09.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/8655d05d0c4a393a46a82905a66c5ff8723cf807051b37229fc49008fcddbd09.png"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 12,
+                            "title": "Cozy vibes with Lofi Girl.",
+                            "body": "Check out the latest avatar decorations and profile effects by Lofi Girl!",
+                            "asset": "https://cdn.discordapp.com/assets/content/f5eec43d49ecd413b56b668257ada6397675d775233e6306950dfeae93c075d4.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/4d28996ac08a02aa75b9b5e7f1beaefe104573a304e5452493aafa4a712eb68d.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 13,
                 "name": "Winter Wonderland",
                 "summary": null,
                 "asset": "a_92f6d18bf697c4b3ca1eb90e1d7936dd",
-                "src": "https://cdn.discordapp.com/assets/content/057b186324a174201b112de40b171c20142a81b7b1d6384a1543230425ba4a48.png"
+                "src": "https://cdn.discordapp.com/assets/content/057b186324a174201b112de40b171c20142a81b7b1d6384a1543230425ba4a48.png",
+                "banner": null,
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 13,
+                            "title": "Check out new Winter Wonderland arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/057b186324a174201b112de40b171c20142a81b7b1d6384a1543230425ba4a48.png",
+                            "decorations": [
+                                "a_92f6d18bf697c4b3ca1eb90e1d7936dd",
+                                "a_a7e6467b5332ab7a2b725aa225e6c752",
+                                "a_88f42fb7360d8224a670a50c3496f315"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        }
+                    }
+                }
             },
             {
                 "id": 15,
                 "name": "Fantasy",
                 "summary": null,
                 "asset": "a_57587eee08d2709588773fb20401fe5f",
-                "src": "https://cdn.discordapp.com/assets/content/0079a06b74b1a08290d48f9b979db682316e4fec3902f128cd86314357aada9d.png"
+                "src": "https://cdn.discordapp.com/assets/content/0079a06b74b1a08290d48f9b979db682316e4fec3902f128cd86314357aada9d.png",
+                "banner": "https://cdn.discordapp.com/assets/content/d60d0efe8a39eef3c88fffd8d2f67f2ba4a65fce89767cb21b4fb4ae0e7d33ba.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 15,
+                            "title": "Check out new Fantasy arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/0079a06b74b1a08290d48f9b979db682316e4fec3902f128cd86314357aada9d.png",
+                            "decorations": [
+                                "a_57587eee08d2709588773fb20401fe5f",
+                                "a_72d1fd7c47cc7a98c8f64d175773344b",
+                                "a_60f484900b4b331d62b51799ba98d001"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 15,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/d60d0efe8a39eef3c88fffd8d2f67f2ba4a65fce89767cb21b4fb4ae0e7d33ba.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/5b09febe2431323e209add9c2fe2f74a17e3ddb9af5e7950aedc1cde68aa8da8.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 16,
                 "name": "Steampunk",
                 "summary": null,
                 "asset": "a_1acbe609daec21fa5b866df9e5a42cb7",
-                "src": "https://cdn.discordapp.com/assets/content/3ae7ba886659bfb09cf51024d1f64650ba76aa67d0b7dca353154f2a1e2731b3.png"
+                "src": "https://cdn.discordapp.com/assets/content/3ae7ba886659bfb09cf51024d1f64650ba76aa67d0b7dca353154f2a1e2731b3.png",
+                "banner": "https://cdn.discordapp.com/assets/content/4a19c62e82148f79cf966fcd42095834e6fcc9ed8cb234865fa533cd9018abf2.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 16,
+                            "title": "Check out new Steampunk arrivals.",
+                            "body": null,
+                            "avatar": "//cdn.discordapp.com/assets/content/3ae7ba886659bfb09cf51024d1f64650ba76aa67d0b7dca353154f2a1e2731b3.png",
+                            "decorations": [
+                                "a_1acbe609daec21fa5b866df9e5a42cb7",
+                                "a_459cf2afde41f01559a4a4204ab81767",
+                                "a_a67833d0f3138d7dcdee98c39eae33d7",
+                                "a_bfaeda83edb41e78250eedc71bed31fc"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 16,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/4a19c62e82148f79cf966fcd42095834e6fcc9ed8cb234865fa533cd9018abf2.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/44d11881f98fa87201592ebe6e830716c37ea6ab93d2121fd77098d6c9138ed6.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 17,
                 "name": "Lunar New Year",
                 "summary": null,
                 "asset": "a_d859cee893cffd5dd0fa17a6caea44e0",
-                "src": "https://cdn.discordapp.com/assets/content/72cc9cf0d6069e3774dd6cd0095f73fce1f700b4f9eacac30ae47c2242c95838.png"
+                "src": "https://cdn.discordapp.com/assets/content/72cc9cf0d6069e3774dd6cd0095f73fce1f700b4f9eacac30ae47c2242c95838.png",
+                "banner": "https://cdn.discordapp.com/assets/content/395518d61f60298061b8fd22e0f730406c32669feee22d4b920be497b5a12174.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 17,
+                            "title": "Check out new Lunar New Year arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/72cc9cf0d6069e3774dd6cd0095f73fce1f700b4f9eacac30ae47c2242c95838.png",
+                            "decorations": [
+                                "a_d859cee893cffd5dd0fa17a6caea44e0",
+                                "a_709938d62b9ef579baa7cc319ac73bf4"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 17,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/395518d61f60298061b8fd22e0f730406c32669feee22d4b920be497b5a12174.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/c9f4db28a78824570332952273bb3af78c2467e7cf719d1b5987e790b2e84a59.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 18,
                 "name": "Civilization VII",
                 "summary": "New decorations for the aspiring emperor",
                 "asset": "a_fcb0de14da228879b455f1f1d3919749",
-                "src": "https://cdn.discordapp.com/assets/content/a7353cba43692e69caa11bcf3c9ed7951e3b5fc4b2979fe12a025ed7216cb3b3.png"
+                "src": "https://cdn.discordapp.com/assets/content/a7353cba43692e69caa11bcf3c9ed7951e3b5fc4b2979fe12a025ed7216cb3b3.png",
+                "banner": "https://cdn.discordapp.com/assets/content/3a49211826d9cdd632f84c78a384a1bdbfcef2cbe9d6dd258ace865eee880e23.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 18,
+                            "title": "Civilization VII",
+                            "body": "New decorations for the aspiring emperor",
+                            "avatar": "https://cdn.discordapp.com/assets/content/a7353cba43692e69caa11bcf3c9ed7951e3b5fc4b2979fe12a025ed7216cb3b3.png",
+                            "decorations": [
+                                "a_fcb0de14da228879b455f1f1d3919749",
+                                "a_9d95e36bc282523fddc63d31a8d01091",
+                                "a_8dddba8c2a9704a943bb7020a3d0a418"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": {
+                                "style": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": null,
+                                        "dark": null
+                                    }
+                                },
+                                "asset": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": "https://cdn.discordapp.com/assets/content/ca221f85bd867b687cbd6ce7229701f1960e53bf665b91be1d3a5d6b0bbd3850.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/ca221f85bd867b687cbd6ce7229701f1960e53bf665b91be1d3a5d6b0bbd3850.png"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 18,
+                            "title": "Build a profile that stands the test of time.",
+                            "body": "Check out the latest Civilization VII profile effects and avatar decorations.",
+                            "asset": "https://cdn.discordapp.com/assets/content/3a49211826d9cdd632f84c78a384a1bdbfcef2cbe9d6dd258ace865eee880e23.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/75c7196f22db35c8d73b556520fe8663d76565db980b3f9426f03ef3598c9b84.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 19,
                 "name": "JENNIE and Valentines",
                 "summary": "Steal hearts in style with JENNIE",
                 "asset": "a_a1c0581971d4a296908829289fea2c47",
-                "src": "https://cdn.discordapp.com/assets/content/0f4ee362d733e1d6132719911c897fb4d167bc3eb98ac3265ad72eb7dceec551.png"
+                "src": "https://cdn.discordapp.com/assets/content/0f4ee362d733e1d6132719911c897fb4d167bc3eb98ac3265ad72eb7dceec551.png",
+                "banner": "https://cdn.discordapp.com/assets/content/0d6ebe2f2edec5ebbe4597a2a5d8eebca13550664cc3bbd6e35189c4a908efcb.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 19,
+                            "title": "JENNIE and Valentines",
+                            "body": "Steal hearts in style with JENNIE",
+                            "avatar": "https://cdn.discordapp.com/assets/content/0f4ee362d733e1d6132719911c897fb4d167bc3eb98ac3265ad72eb7dceec551.png",
+                            "decorations": [
+                                "a_a1c0581971d4a296908829289fea2c47",
+                                "a_b4dcf63b6af2e20cba91af61c0e3a8a7",
+                                "a_c86b11a49bb8057ce9c974a6f7ad658a"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": {
+                                "style": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": null,
+                                        "dark": null
+                                    }
+                                },
+                                "asset": {
+                                    "resting": {
+                                        "light": "https://cdn.discordapp.com/assets/content/3c4415ce6e4ebcb28221c3ee0a894e8c95c2147ad55b17f4fec5be39b5110169.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/3c4415ce6e4ebcb28221c3ee0a894e8c95c2147ad55b17f4fec5be39b5110169.png"
+                                    },
+                                    "hovered": {
+                                        "light": "https://cdn.discordapp.com/assets/content/b5c407d7682802378e93169b8812d8ab77758bb9fd6814db2bc51c55e26bd8fd.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/b5c407d7682802378e93169b8812d8ab77758bb9fd6814db2bc51c55e26bd8fd.png"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 19,
+                            "title": "Give your profile a fresh look",
+                            "body": "New JENNIE and Valentines avatar decorations and profile effects that’ll dazzle your secret admirers.",
+                            "asset": "https://cdn.discordapp.com/assets/content/0d6ebe2f2edec5ebbe4597a2a5d8eebca13550664cc3bbd6e35189c4a908efcb.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/0da18ebf9833a40a4282d04fa5b632b820d61d9a43517421ad6ddd690d6f62b7.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 20,
                 "name": "Anime",
                 "summary": null,
                 "asset": "a_d23647f13e9b090dd17f67a31a93bf30",
-                "src": "https://cdn.discordapp.com/assets/content/3a5eae8b01fc65e1090133eaeeb470bc549e7d0479a9e58eb39ceb6a07d3c822.png"
+                "src": "https://cdn.discordapp.com/assets/content/3a5eae8b01fc65e1090133eaeeb470bc549e7d0479a9e58eb39ceb6a07d3c822.png",
+                "banner": "https://cdn.discordapp.com/assets/content/169bb2d1eb21be1e517d8fac4f8a48bc10e853291216b3053f36228a05aa76b3.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 20,
+                            "title": "Check out new Anime arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/3a5eae8b01fc65e1090133eaeeb470bc549e7d0479a9e58eb39ceb6a07d3c822.png",
+                            "decorations": [
+                                "a_d23647f13e9b090dd17f67a31a93bf30",
+                                "a_7e6e07bf3d855512a30c593647cc2c24",
+                                "a_4ff879bda5715851f886c6f77d275879",
+                                "a_45f7f9975255971b197d34d77fb50ede",
+                                "a_df5442048d7d5b8b8906f3a9cd93f0ab",
+                                "a_e0a2df84cf7eb8e098a13e37ec9027c1"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 20,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/169bb2d1eb21be1e517d8fac4f8a48bc10e853291216b3053f36228a05aa76b3.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/1e4433fa99b6c21455d31abe239f909f87fc05ef8aedc461936c3147355d6a1c.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 21,
                 "name": "Insomnia",
                 "summary": null,
                 "asset": "a_6d99f670de3fcee669660fe262e896ea",
-                "src": "https://cdn.discordapp.com/assets/content/6d26f18c31bcea9ee88c1d113477408c51ac0fb29013083f403ad965a09be230.png"
+                "src": "https://cdn.discordapp.com/assets/content/6d26f18c31bcea9ee88c1d113477408c51ac0fb29013083f403ad965a09be230.png",
+                "banner": "https://cdn.discordapp.com/assets/content/038226848943dac18c031948b064d5a317c1193b1e812043efa68f76e3e4b811.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 21,
+                            "title": "Check out new Insomnia arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/6d26f18c31bcea9ee88c1d113477408c51ac0fb29013083f403ad965a09be230.png",
+                            "decorations": [
+                                "a_6d99f670de3fcee669660fe262e896ea",
+                                "a_fb1fab5c0a30f0a89a7cd5fad873c6f0",
+                                "a_462b0bddc07dd495765fe12abe8b077f"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 21,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/038226848943dac18c031948b064d5a317c1193b1e812043efa68f76e3e4b811.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/9aeed1c548ed726ee8d0204cb9957afd1e9bc81422ed09e9158f5f34e3174825.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 22,
                 "name": "aespa",
                 "summary": "SYNK DIVE starts now. Join aespa on Discord",
                 "asset": "a_49ed38f73003e2e182f77190af0a0a56",
-                "src": "https://cdn.discordapp.com/assets/content/0358331ba56ab0c678c67df950001a08e2281a1c186a36f23d779d942a5a5127.png"
+                "src": "https://cdn.discordapp.com/assets/content/0358331ba56ab0c678c67df950001a08e2281a1c186a36f23d779d942a5a5127.png",
+                "banner": "https://cdn.discordapp.com/assets/content/19ca5221280999242ea901fa2016c7ca08bed083f0843a84533d60ad950073e7.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 22,
+                            "title": "aespa",
+                            "body": "SYNK DIVE starts now. Join aespa on Discord",
+                            "avatar": "https://cdn.discordapp.com/assets/content/0358331ba56ab0c678c67df950001a08e2281a1c186a36f23d779d942a5a5127.png",
+                            "decorations": [
+                                "a_49ed38f73003e2e182f77190af0a0a56",
+                                "a_35713167cc82e0f408c26dfc032a7f0f",
+                                "a_6912c651e979fbfdc479ed082a571513",
+                                "a_cdca4a092a03b16b94e50289fe3f7bd1",
+                                "a_f4fcdab859b2eab1874fbe7182d5aa26",
+                                "a_007d64a922ff5773fb9464945de93c8e"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": {
+                                "style": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": null,
+                                        "dark": null
+                                    }
+                                },
+                                "asset": {
+                                    "resting": {
+                                        "light": "https://cdn.discordapp.com/assets/content/ffea3b8093800be98cd8cd53695037449224b204ac4fb1e5e0d455688b81f1eb.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/ffea3b8093800be98cd8cd53695037449224b204ac4fb1e5e0d455688b81f1eb.png"
+                                    },
+                                    "hovered": {
+                                        "light": "https://cdn.discordapp.com/assets/content/5ec9ae042bb8068e7e1c949cd6c822aa16e756b0f02a39c83adf0b329c90113c.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/5ec9ae042bb8068e7e1c949cd6c822aa16e756b0f02a39c83adf0b329c90113c.png"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 22,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/19ca5221280999242ea901fa2016c7ca08bed083f0843a84533d60ad950073e7.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/a4db9eb0e03e1d20cdb03288a1cad3e2b90b174d8f948a09e043d56f44444142.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 23,
                 "name": "Shenanigans",
                 "summary": null,
                 "asset": "a_0e50ebc16aa67676687222d0b9b51eb2",
-                "src": "https://cdn.discordapp.com/assets/content/8aa0f3367cea8be575e303bdf0e19e9f3fff9628ee7016529c030148e497b1e6.png"
+                "src": "https://cdn.discordapp.com/assets/content/8aa0f3367cea8be575e303bdf0e19e9f3fff9628ee7016529c030148e497b1e6.png",
+                "banner": "https://cdn.discordapp.com/assets/content/4640d16a22609eabe4d7e0125808b589c867b870015a1c57af0f04c3b1414a11.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 23,
+                            "title": "Check out new Shenanigans arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/8aa0f3367cea8be575e303bdf0e19e9f3fff9628ee7016529c030148e497b1e6.png",
+                            "decorations": [
+                                "a_0e50ebc16aa67676687222d0b9b51eb2",
+                                "a_4774e1f97ebd4a8cc8f71668f3b418e4",
+                                "a_1e69b40cf0f52b68c511070dd7a29f34"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 23,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/4640d16a22609eabe4d7e0125808b589c867b870015a1c57af0f04c3b1414a11.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/b9495c86dd8ed44394e30d71a477fe9a2f608d38d9a477b84b8f770d90353a2e.png"
+                        }
+                    }
+                }
             },
             {
                 "id": 24,
                 "name": "Chibi Cafe",
                 "summary": null,
                 "asset": "a_b70f0a0cecf3097eae17a8f7d8c659a8",
-                "src": "https://cdn.discordapp.com/assets/content/f796fa9c02760f25e39b2011da141c745772ae144f5b32346be330a0b5b3823b.png"
+                "src": "https://cdn.discordapp.com/assets/content/f796fa9c02760f25e39b2011da141c745772ae144f5b32346be330a0b5b3823b.png",
+                "banner": "https://cdn.discordapp.com/assets/content/8cc59a7da47bc6eb16c4666ba615a48f4b5f0a2b654ac887b3e129c23cef55bc.png",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 24,
+                            "title": "Check out new Chibi Cafe arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/f796fa9c02760f25e39b2011da141c745772ae144f5b32346be330a0b5b3823b.png",
+                            "decorations": [
+                                "a_b70f0a0cecf3097eae17a8f7d8c659a8",
+                                "a_5a52022f86ac469d0f4c898fc6ebc1c8",
+                                "a_45635c94cd1dfa196f9711c01cbd7df8"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 24,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest avatar decorations and profile effects and collect your favorite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/8cc59a7da47bc6eb16c4666ba615a48f4b5f0a2b654ac887b3e129c23cef55bc.png",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/b58c4abf59b55e17f98de55d2dc3e3d7650e161c5895e5f56cec3b18a184c3b2.png"
+                        }
+                    }
+                }
             }
         ]
     }
