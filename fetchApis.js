@@ -27,7 +27,7 @@ const apis = [
 
 async function fetchData() {
   try {
-    const logsDir = path.join(__dirname, 'public');
+    const logsDir = path.join(__dirname, 'data');
     await fs.ensureDir(logsDir);  // Ensure directory exists
 
     for (const api of apis) {
