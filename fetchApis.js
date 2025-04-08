@@ -13,12 +13,11 @@ if (!API_TOKEN) {
 // List of APIs to fetch
 const apis = [
     { name: 'collectibles-home', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=home' },
-    { name: 'collectibles-shop', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=shop' },
+    { name: 'collectibles-shop', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=shop&has-leaks=true' },
     { name: 'collectibles-orbs', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=orbs' },
-    { name: 'collectibles-leaks', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=leaks' },
     { name: 'collectibles-nameplates', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=nameplates' },
     { name: 'collectibles-consumables', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=consumables' },
-    { name: 'collectibles-miscellaneous', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=miscellaneous' },
+    { name: 'collectibles-miscellaneous', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=miscellaneous&include-no-sku-items=true' },
     { name: 'pplus-home', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=pplus-home' },
     { name: 'pplus', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=pplus' },
     { name: 'profile-effects-discord', url: 'https://shop-archives-api.vercel.app/api/profile-effects?tab=discord' },
