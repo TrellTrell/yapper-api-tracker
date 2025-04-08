@@ -24,6 +24,7 @@ jobs:
       - name: Fetch APIs and Save Data
         env:
           API_TOKEN: ${{ secrets.API_TOKEN }}
+          API_PASSWORD: ${{ secrets.API_PASSWORD }}
         run: node fetchApis.js
 
       - name: Debug Remote URL
