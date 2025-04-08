@@ -18,6 +18,7 @@ const apis = [
     { name: 'collectibles-nameplates', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=nameplates' },
     { name: 'collectibles-consumables', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=consumables' },
     { name: 'collectibles-miscellaneous', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=miscellaneous&include-no-sku-items=true' },
+    { name: 'collectibles-marketing', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=marketing },
     { name: 'pplus-home', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=pplus-home' },
     { name: 'pplus', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=pplus' },
     { name: 'profile-effects-discord', url: 'https://shop-archives-api.vercel.app/api/profile-effects?tab=discord' },
