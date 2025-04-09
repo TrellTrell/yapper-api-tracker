@@ -371,6 +371,17 @@
         "subblocks": [
             {
                 "type": 0,
+                "category_store_listing_id": "1357589632715587685",
+                "name": "GGEZ",
+                "unpublished_at": null,
+                "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1357589632770117673.png?size=1280",
+                "body_text": null,
+                "banner_text_color": null,
+                "page": "shop",
+                "sku_id": "1357589632723849316"
+            },
+            {
+                "type": 0,
                 "category_store_listing_id": "1354894010841301214",
                 "name": "Chibi Cafe",
                 "unpublished_at": null,
@@ -379,17 +390,6 @@
                 "banner_text_color": "#000000",
                 "page": "shop",
                 "sku_id": "1354894010849820852"
-            },
-            {
-                "type": 0,
-                "category_store_listing_id": "1352407446492155975",
-                "name": "Shenanigans",
-                "unpublished_at": null,
-                "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1352407446559260711.png?size=1280",
-                "body_text": null,
-                "banner_text_color": null,
-                "page": "shop",
-                "sku_id": "1352407446500675708"
             }
         ]
     }
