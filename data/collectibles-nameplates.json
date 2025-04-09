@@ -26,12 +26,12 @@
         "logo": "1349849614362345614",
         "hero_ranking": [
             "1349849614102036581",
-            "1349849614143979540",
-            "1349849614173339688",
             "1349849614198505602",
-            "1349849614227865711",
             "1349849614257225760",
             "1349849614286585866",
+            "1349849614143979540",
+            "1349849614227865711",
+            "1349849614173339688",
             "1349849614311751731"
         ],
         "mobile_bg": null,
@@ -865,7 +865,7 @@
             "static": "https://cdn.discordapp.com/assets/content/6e9143efc20856655971694a3fc651737a9768dcda06dd420f219ddd67b72798.png"
         },
         "hero_banner_asset": {
-            "animated": null,
+            "animated": "https://cdn.discordapp.com/assets/content/72b3c3b11ae195d51eecd8840e59dfca3ccd741ff5bff724f0626e2a7bbbaae7.webm",
             "static": "https://cdn.discordapp.com/assets/content/13fd7353c88666e8d56e3e460737fa33a5383868c9a64f09097ba16c927a2847.jpg"
         }
     },
