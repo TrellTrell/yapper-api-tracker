@@ -12,17 +12,17 @@ if (!API_TOKEN) {
 
 // List of APIs to fetch
 const apis = [
-    { name: 'collectibles-home', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=home' },
-    { name: 'collectibles-shop', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=shop&has-leaks=true' },
-    { name: 'collectibles-orbs', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=orbs' },
-    { name: 'collectibles-nameplates', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=nameplates' },
-    { name: 'collectibles-consumables', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=consumables' },
-    { name: 'collectibles-miscellaneous', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=miscellaneous&include-no-sku-items=true' },
-    { name: 'collectibles-marketing', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=marketing' },
-    { name: 'pplus-home', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=pplus-home' },
-    { name: 'pplus', url: 'https://shop-archives-api.vercel.app/api/collectibles-shop?tab=pplus' },
-    { name: 'profile-effects-discord', url: 'https://shop-archives-api.vercel.app/api/profile-effects?tab=discord' },
-    { name: 'profile-effects-pplus', url: 'https://shop-archives-api.vercel.app/api/profile-effects?tab=pplus' },
+    { name: 'collectibles-home', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=home' },
+    { name: 'collectibles-shop', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=shop&has-leaks=true' },
+    { name: 'collectibles-orbs', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=orbs' },
+    { name: 'collectibles-nameplates', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=nameplates' },
+    { name: 'collectibles-consumables', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=consumables' },
+    { name: 'collectibles-miscellaneous', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=miscellaneous&include-no-sku-items=true' },
+    { name: 'collectibles-marketing', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=marketing' },
+    { name: 'pplus-home', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=pplus-home' },
+    { name: 'pplus', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=pplus' },
+    { name: 'profile-effects-discord', url: 'https://api.yapper.shop/v2/profile-effects?tab=discord' },
+    { name: 'profile-effects-pplus', url: 'https://api.yapper.shop/v2/profile-effects?tab=pplus' },
 ];
 
 async function fetchData() {
