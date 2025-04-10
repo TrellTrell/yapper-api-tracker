@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Community Test Theme",
+        "summary": "Community Test Theme",
+        "icon": {
+            "color": "#eb4034",
+            "src": null
+        },
+        "banner": {
+            "color": null,
+            "src": null
+        },
+        "github": {
+            "user": "DTACat",
+            "repo": "community-test-theme-for-shop-archives",
+            "raw": "https://raw.githubusercontent.com/DTACat/community-test-theme-for-shop-archives/refs/heads/main/main.css"
+        }
+    }
+]
