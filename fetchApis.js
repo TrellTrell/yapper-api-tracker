@@ -23,6 +23,7 @@ const apis = [
     { name: 'pplus', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=pplus' },
     { name: 'profile-effects-discord', url: 'https://api.yapper.shop/v2/profile-effects?tab=discord' },
     { name: 'profile-effects-pplus', url: 'https://api.yapper.shop/v2/profile-effects?tab=pplus' },
+    { name: 'community-themes', url: 'https://api.yapper.shop/v2/community?tab=themes' },
 ];
 
 async function fetchData() {
