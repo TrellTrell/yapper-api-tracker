@@ -3772,6 +3772,182 @@
                 "premium_type": 0,
                 "category_sku_id": "1309309974266118144",
                 "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1359328540104986636",
+                "name": "Face of Corruption Avatar Decoration",
+                "summary": "Exclusive to the Path of Exile 2 Quest for a limited time.",
+                "store_listing_id": "1359328540104986635",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "expires_at": "2025-06-17T00:00:00+00:00",
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1359328540104986637",
+                        "sku_id": "1359328540104986636",
+                        "asset": "a_0384e205589728fd90524b4345392e91",
+                        "label": "This avatar decoration features two intense, screaming red stone faces split dramatically down the middle."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1359953429778137322",
+                "name": "Emma Frost Avatar Decoration",
+                "summary": "Exclusive to the Marvel Rivals S2 Quest for a limited time.",
+                "store_listing_id": "1359953429778137321",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "expires_at": "2025-06-18T07:00:00+00:00",
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1359953429778137323",
+                        "sku_id": "1359953429778137322",
+                        "asset": "a_3a980dcf922317f38df5a82a5b0d0679",
+                        "label": "This avatar decoration features a confident, stylishly armored woman standing tall with a shimmering crystal levitating above her hand. The transparent center lets your avatar shine while being blessed by the aura of power, elegance, and just a dash of sass."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
             }
         ]
     },
