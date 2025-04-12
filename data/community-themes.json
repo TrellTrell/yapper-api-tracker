@@ -1,1 +1,46 @@
-[]
+[
+    {
+        "id": "3",
+        "name": "Neon Purple",
+        "summary": "Neon Purple",
+        "text_color": "#ffffff",
+        "theme": "Dark",
+        "icon": {
+            "color_primary": "#be00c4",
+            "color_secondary": "#000000",
+            "src": null
+        },
+        "banner": {
+            "color_primary": "#be00c4",
+            "color_secondary": "#000000",
+            "src": null
+        },
+        "github": {
+            "user": "DTACat",
+            "repo": "community-test-theme-for-shop-archives",
+            "raw": "https://raw.githubusercontent.com/DTACat/community-test-theme-for-shop-archives/refs/heads/main/purple.css"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Neon Green",
+        "summary": "Neon Green",
+        "text_color": "#ffffff",
+        "theme": "Dark",
+        "icon": {
+            "color_primary": "#17c400",
+            "color_secondary": "#000000",
+            "src": null
+        },
+        "banner": {
+            "color_primary": "#17c400",
+            "color_secondary": "#000000",
+            "src": null
+        },
+        "github": {
+            "user": "DTACat",
+            "repo": "community-test-theme-for-shop-archives",
+            "raw": "https://raw.githubusercontent.com/DTACat/community-test-theme-for-shop-archives/refs/heads/main/green.css"
+        }
+    }
+]
