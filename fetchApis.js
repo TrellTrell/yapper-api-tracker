@@ -24,6 +24,7 @@ const apis = [
     { name: 'profile-effects-discord', url: 'https://api.yapper.shop/v2/profile-effects?tab=discord' },
     { name: 'profile-effects-pplus', url: 'https://api.yapper.shop/v2/profile-effects?tab=pplus' },
     { name: 'community-themes', url: 'https://api.yapper.shop/v2/community?tab=themes' },
+    { name: 'reviews', url: 'https://api.yapper.shop/v2/reviews' },
 ];
 
 async function fetchData() {
