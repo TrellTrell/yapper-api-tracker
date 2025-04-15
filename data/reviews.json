@@ -1,19 +1,53 @@
 [
     {
-        "id": 41,
-        "rating": 5,
-        "review_text": "very bad review with very bad words test !!!!!",
-        "review_flag_type": 2,
+        "id": 49,
+        "rating": null,
+        "review_text": "Reported Review",
+        "review_flag_type": 0,
         "report_type": 1,
-        "created_at": "2025-04-15T01:50:41.005",
+        "created_at": "2025-04-15T08:01:31.887506",
+        "users": {
+            "id": "-2",
+            "avatar": null,
+            "username": "test_review_account_2"
+        },
+        "items": {
+            "id": "1",
+            "name": "Reviews Test Category"
+        }
+    },
+    {
+        "id": 48,
+        "rating": null,
+        "review_text": "Flagged Review",
+        "review_flag_type": 2,
+        "report_type": 0,
+        "created_at": "2025-04-15T07:59:38.48704",
+        "users": {
+            "id": "-1",
+            "avatar": null,
+            "username": "test_review_account_1"
+        },
+        "items": {
+            "id": "1",
+            "name": "Reviews Test Category"
+        }
+    },
+    {
+        "id": 46,
+        "rating": 6,
+        "review_text": "Write a review for Reviews Test Category...",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "created_at": "2025-04-15T07:56:18.01",
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
             "username": "yanoiwascat"
         },
         "items": {
-            "id": "1344802365307621427",
-            "name": "Nameplate Test"
+            "id": "1",
+            "name": "Reviews Test Category"
         }
     },
     {
