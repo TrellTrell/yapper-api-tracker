@@ -1,9 +1,27 @@
 [
     {
+        "id": 41,
+        "rating": 5,
+        "review_text": "very bad review with very bad words test !!!!!",
+        "review_flag_type": 2,
+        "report_type": 1,
+        "created_at": "2025-04-15T01:50:41.005",
+        "users": {
+            "id": "1169899815983915121",
+            "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "username": "yanoiwascat"
+        },
+        "items": {
+            "id": "1344802365307621427",
+            "name": "Nameplate Test"
+        }
+    },
+    {
         "id": 40,
         "rating": 5,
         "review_text": "good",
         "review_flag_type": 0,
+        "report_type": 0,
         "created_at": "2025-04-14T11:02:31.217",
         "users": {
             "id": "989835142946238505",
@@ -20,6 +38,7 @@
         "rating": 1,
         "review_text": "boo 👎",
         "review_flag_type": 0,
+        "report_type": 0,
         "created_at": "2025-04-14T08:14:57.129",
         "users": {
             "id": "624091967625625610",
@@ -36,6 +55,7 @@
         "rating": 1,
         "review_text": "boo",
         "review_flag_type": 0,
+        "report_type": 0,
         "created_at": "2025-04-14T08:04:40.471",
         "users": {
             "id": "1169899815983915121",
@@ -52,6 +72,7 @@
         "rating": 5,
         "review_text": "🗣️",
         "review_flag_type": 0,
+        "report_type": 0,
         "created_at": "2025-04-14T05:10:04.329",
         "users": {
             "id": "1169899815983915121",
@@ -68,6 +89,7 @@
         "rating": 5,
         "review_text": "i rate this orb/10",
         "review_flag_type": 0,
+        "report_type": 0,
         "created_at": "2025-04-14T04:37:52.371",
         "users": {
             "id": "624091967625625610",
@@ -84,6 +106,7 @@
         "rating": 4,
         "review_text": "The nitro is a little overpriced tbh",
         "review_flag_type": 0,
+        "report_type": 0,
         "created_at": "2025-04-14T02:18:39.731",
         "users": {
             "id": "1169899815983915121",
@@ -100,6 +123,7 @@
         "rating": -5,
         "review_text": "0 star test (shit filter test)",
         "review_flag_type": 2,
+        "report_type": 0,
         "created_at": "2025-04-13T05:57:33.986",
         "users": {
             "id": "1169899815983915121",
@@ -116,6 +140,7 @@
         "rating": 4,
         "review_text": "i want breakfast plate back right now!!!!! 2",
         "review_flag_type": 0,
+        "report_type": 0,
         "created_at": "2025-04-13T05:14:42.151",
         "users": {
             "id": "1169899815983915121",
@@ -132,6 +157,7 @@
         "rating": 5,
         "review_text": "review",
         "review_flag_type": 0,
+        "report_type": 0,
         "created_at": "2025-04-13T03:57:49.25",
         "users": {
             "id": "1049207768785100880",
@@ -148,6 +174,7 @@
         "rating": 5,
         "review_text": "h",
         "review_flag_type": 0,
+        "report_type": 0,
         "created_at": "0001-01-01T22:39:34.925",
         "users": {
             "id": "1169899815983915121",
