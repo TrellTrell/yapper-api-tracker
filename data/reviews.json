@@ -1,5 +1,22 @@
 [
     {
+        "id": 54,
+        "rating": 3,
+        "review_text": "hghghghgj",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "created_at": "2025-04-16T07:11:00.204",
+        "users": {
+            "id": "1169899815983915121",
+            "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "username": "yanoiwascat"
+        },
+        "items": {
+            "id": "1309309974266118144",
+            "name": "Special Events 2"
+        }
+    },
+    {
         "id": 49,
         "rating": null,
         "review_text": "Reported Review",
@@ -191,7 +208,7 @@
         "rating": 5,
         "review_text": "review",
         "review_flag_type": 0,
-        "report_type": 0,
+        "report_type": 5,
         "created_at": "2025-04-13T03:57:49.25",
         "users": {
             "id": "1049207768785100880",
