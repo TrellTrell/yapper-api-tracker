@@ -9,6 +9,7 @@
         "users": {
             "id": "-3",
             "avatar": null,
+            "is_admin": true,
             "username": "test_review_account_3"
         },
         "items": {
@@ -26,6 +27,7 @@
         "users": {
             "id": "-2",
             "avatar": null,
+            "is_admin": true,
             "username": "test_review_account_2"
         },
         "items": {
@@ -43,6 +45,7 @@
         "users": {
             "id": "-1",
             "avatar": null,
+            "is_admin": true,
             "username": "test_review_account_1"
         },
         "items": {
@@ -60,6 +63,7 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "is_admin": true,
             "username": "yanoiwascat"
         },
         "items": {
@@ -77,6 +81,7 @@
         "users": {
             "id": "989835142946238505",
             "avatar": "ca5e635e61a9a8e17d9440e78400d307",
+            "is_admin": false,
             "username": "blacktiger_snr"
         },
         "items": {
@@ -94,6 +99,7 @@
         "users": {
             "id": "624091967625625610",
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
+            "is_admin": false,
             "username": "bachhummus"
         },
         "items": {
@@ -111,6 +117,7 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "is_admin": true,
             "username": "yanoiwascat"
         },
         "items": {
@@ -128,6 +135,7 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "is_admin": true,
             "username": "yanoiwascat"
         },
         "items": {
@@ -145,6 +153,7 @@
         "users": {
             "id": "624091967625625610",
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
+            "is_admin": false,
             "username": "bachhummus"
         },
         "items": {
@@ -162,6 +171,7 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "is_admin": true,
             "username": "yanoiwascat"
         },
         "items": {
@@ -179,6 +189,7 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "is_admin": true,
             "username": "yanoiwascat"
         },
         "items": {
@@ -196,6 +207,7 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "is_admin": true,
             "username": "yanoiwascat"
         },
         "items": {
@@ -213,6 +225,7 @@
         "users": {
             "id": "1049207768785100880",
             "avatar": "0a022350e1eb39364f2af5a39830f73f",
+            "is_admin": true,
             "username": "trell_ie"
         },
         "items": {
@@ -223,13 +236,14 @@
     {
         "id": 2,
         "rating": 5,
-        "review_text": "h",
+        "review_text": "Why are you reporting this review?",
         "review_flag_type": 0,
         "report_type": 0,
         "created_at": "0001-01-01T22:39:34.925",
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "is_admin": true,
             "username": "yanoiwascat"
         },
         "items": {
