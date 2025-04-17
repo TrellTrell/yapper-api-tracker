@@ -106,7 +106,10 @@
             "id": "1224078342341529683",
             "avatar": "6571027c70a93c97d1f1e0ad29521e8e",
             "badges": {
-                "staff": true
+                "staff": true,
+                "bug_hunter": true,
+                "contributor": true,
+                "bug_hunter_gold": true
             },
             "username": "zywenth"
         },
