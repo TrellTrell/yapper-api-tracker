@@ -2,14 +2,16 @@
     {
         "id": 62,
         "rating": 1,
-        "review_text": "﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽",
+        "review_text": "boooo",
         "review_flag_type": 0,
         "report_type": 0,
-        "created_at": "2025-04-17T06:26:31.495",
+        "created_at": "2025-04-17T06:30:03.977",
         "users": {
             "id": "935621080092123156",
             "avatar": "f9838dc85c285dd33cc3aa8dd5440611",
-            "is_admin": false,
+            "badges": {
+                "bug_hunter": true
+            },
             "username": "traox_"
         },
         "items": {
@@ -27,7 +29,9 @@
         "users": {
             "id": "935621080092123156",
             "avatar": "f9838dc85c285dd33cc3aa8dd5440611",
-            "is_admin": false,
+            "badges": {
+                "bug_hunter": true
+            },
             "username": "traox_"
         },
         "items": {
@@ -45,7 +49,7 @@
         "users": {
             "id": "-4",
             "avatar": null,
-            "is_admin": true,
+            "badges": null,
             "username": "test_review_account_4"
         },
         "items": {
@@ -63,7 +67,9 @@
         "users": {
             "id": "1224078342341529683",
             "avatar": "6571027c70a93c97d1f1e0ad29521e8e",
-            "is_admin": true,
+            "badges": {
+                "staff": true
+            },
             "username": "zywenth"
         },
         "items": {
@@ -81,7 +87,7 @@
         "users": {
             "id": "329671025312923648",
             "avatar": "a_bcb6f84f32dc643e8436d50a9c6d23e9",
-            "is_admin": false,
+            "badges": null,
             "username": "tolgchu"
         },
         "items": {
@@ -99,7 +105,7 @@
         "users": {
             "id": "-3",
             "avatar": null,
-            "is_admin": true,
+            "badges": null,
             "username": "test_review_account_3"
         },
         "items": {
@@ -117,7 +123,7 @@
         "users": {
             "id": "-2",
             "avatar": null,
-            "is_admin": true,
+            "badges": null,
             "username": "test_review_account_2"
         },
         "items": {
@@ -135,7 +141,7 @@
         "users": {
             "id": "-1",
             "avatar": null,
-            "is_admin": true,
+            "badges": null,
             "username": "test_review_account_1"
         },
         "items": {
@@ -153,7 +159,10 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
-            "is_admin": true,
+            "badges": {
+                "staff": true,
+                "bug_hunter": true
+            },
             "username": "yanoiwascat"
         },
         "items": {
@@ -171,7 +180,7 @@
         "users": {
             "id": "989835142946238505",
             "avatar": "ca5e635e61a9a8e17d9440e78400d307",
-            "is_admin": false,
+            "badges": null,
             "username": "blacktiger_snr"
         },
         "items": {
@@ -189,7 +198,7 @@
         "users": {
             "id": "624091967625625610",
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
-            "is_admin": false,
+            "badges": null,
             "username": "bachhummus"
         },
         "items": {
@@ -207,7 +216,10 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
-            "is_admin": true,
+            "badges": {
+                "staff": true,
+                "bug_hunter": true
+            },
             "username": "yanoiwascat"
         },
         "items": {
@@ -225,7 +237,10 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
-            "is_admin": true,
+            "badges": {
+                "staff": true,
+                "bug_hunter": true
+            },
             "username": "yanoiwascat"
         },
         "items": {
@@ -243,7 +258,7 @@
         "users": {
             "id": "624091967625625610",
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
-            "is_admin": false,
+            "badges": null,
             "username": "bachhummus"
         },
         "items": {
@@ -261,7 +276,10 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
-            "is_admin": true,
+            "badges": {
+                "staff": true,
+                "bug_hunter": true
+            },
             "username": "yanoiwascat"
         },
         "items": {
@@ -279,7 +297,10 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
-            "is_admin": true,
+            "badges": {
+                "staff": true,
+                "bug_hunter": true
+            },
             "username": "yanoiwascat"
         },
         "items": {
@@ -297,7 +318,10 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
-            "is_admin": true,
+            "badges": {
+                "staff": true,
+                "bug_hunter": true
+            },
             "username": "yanoiwascat"
         },
         "items": {
@@ -315,7 +339,9 @@
         "users": {
             "id": "1049207768785100880",
             "avatar": "0a022350e1eb39364f2af5a39830f73f",
-            "is_admin": true,
+            "badges": {
+                "staff": true
+            },
             "username": "trell_ie"
         },
         "items": {
@@ -333,7 +359,10 @@
         "users": {
             "id": "1169899815983915121",
             "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
-            "is_admin": true,
+            "badges": {
+                "staff": true,
+                "bug_hunter": true
+            },
             "username": "yanoiwascat"
         },
         "items": {
