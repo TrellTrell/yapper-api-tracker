@@ -37,6 +37,42 @@
         }
     },
     {
+        "id": 121,
+        "rating": 5,
+        "review_text": "CHICKEN NUGGET AND SKIBIDI TOILET, I LOVE YOU DISCORD!",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "created_at": "2025-04-18T12:36:12.935",
+        "users": {
+            "id": "1151500516380119091",
+            "avatar": "f97cd090ba67e4d6b9ba2afd06641608",
+            "badges": null,
+            "username": "polskaserver"
+        },
+        "items": {
+            "id": "1352407446500675708",
+            "name": "Shenanigans"
+        }
+    },
+    {
+        "id": 120,
+        "rating": 5,
+        "review_text": "Nameplates, new type of Discord Collectibles that make your name stand out!",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "created_at": "2025-04-18T12:35:36.45",
+        "users": {
+            "id": "1151500516380119091",
+            "avatar": "f97cd090ba67e4d6b9ba2afd06641608",
+            "badges": null,
+            "username": "polskaserver"
+        },
+        "items": {
+            "id": "1349849614353829990",
+            "name": "Nameplates"
+        }
+    },
+    {
         "id": 119,
         "rating": 1,
         "review_text": "ONLY 1 COLLECTIBLE? WHY?",
