@@ -1,5 +1,27 @@
 [
     {
+        "id": 2,
+        "rating": 5,
+        "review_text": ":thing::thing::thing::thing::thing::thing::thing::thing::thing::thing::thing: <img src=\"\" onerror=\"alert(1)\"/> :yapping_head: :no_yapping:",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "created_at": "2025-04-18T05:02:43.6",
+        "users": {
+            "id": "1169899815983915121",
+            "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "badges": {
+                "staff": true,
+                "bug_hunter": true,
+                "collectible_dataminer": true
+            },
+            "username": "yanoiwascat"
+        },
+        "items": {
+            "id": "1349486948942745691",
+            "name": "Holidays"
+        }
+    },
+    {
         "id": 30,
         "rating": 3,
         "review_text": "idk if this is cheap or expensive",
@@ -392,28 +414,6 @@
                 "collectible_dataminer": true
             },
             "username": "trell_ie"
-        },
-        "items": {
-            "id": "1349486948942745691",
-            "name": "Holidays"
-        }
-    },
-    {
-        "id": 2,
-        "rating": 5,
-        "review_text": "Why are you reporting this review?",
-        "review_flag_type": 0,
-        "report_type": 0,
-        "created_at": "0001-01-01T22:39:34.925",
-        "users": {
-            "id": "1169899815983915121",
-            "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
-            "badges": {
-                "staff": true,
-                "bug_hunter": true,
-                "collectible_dataminer": true
-            },
-            "username": "yanoiwascat"
         },
         "items": {
             "id": "1349486948942745691",
