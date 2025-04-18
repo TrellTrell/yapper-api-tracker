@@ -159,8 +159,8 @@
     },
     {
         "id": 60,
-        "rating": 5,
-        "review_text": "test",
+        "rating": 0,
+        "review_text": "test :thing:",
         "review_flag_type": 0,
         "report_type": 0,
         "created_at": "2025-04-17T05:55:01.677",
