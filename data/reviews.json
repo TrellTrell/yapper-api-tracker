@@ -381,6 +381,12 @@
             "avatar": "6571027c70a93c97d1f1e0ad29521e8e",
             "badges": [
                 {
+                    "id": "6",
+                    "src": "https://cdn.yapper.shop/assets/badges/6.png",
+                    "name": "Flower Girl",
+                    "support": null
+                },
+                {
                     "id": "1",
                     "src": "https://cdn.yapper.shop/assets/badges/1.png",
                     "name": "Shop Archives Staff",
