@@ -73,7 +73,14 @@
         "users": {
             "id": "334062444718587905",
             "avatar": "afbba304f0255fc7e946f77c6c909169",
-            "badges": null,
+            "badges": [
+                {
+                    "id": "1",
+                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
+                    "name": "Shop Archives Staff",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                }
+            ],
             "system": false,
             "username": "seelenverzeichnis"
         },
