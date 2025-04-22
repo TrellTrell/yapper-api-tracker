@@ -5,6 +5,7 @@
         "review_text": ":thing::thing::thing::thing::thing::thing::thing::thing::thing::thing::thing: <img src=\"\" onerror=\"alert(1)\"/> :yapping_head: :no_yapping:",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": null,
         "users": {
             "id": "1169899815983915121",
@@ -43,6 +44,7 @@
         "review_text": "Do NOT ask questions about nameplates in your review, your review will be deleted and you will be banned from posting reviews! Please report any reviews that break this rule.",
         "review_flag_type": 0,
         "report_type": 5,
+        "system_type": 1,
         "created_at": null,
         "users": {
             "id": "1342635740768501886",
@@ -69,6 +71,7 @@
         "review_text": "cat 10/10",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-21T19:50:28.064",
         "users": {
             "id": "334062444718587905",
@@ -95,6 +98,7 @@
         "review_text": "💀",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-19T14:48:18.58",
         "users": {
             "id": "890246869433856052",
@@ -114,6 +118,7 @@
         "review_text": "CHICKEN NUGGET AND SKIBIDI TOILET, I LOVE YOU DISCORD!",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-18T12:36:12.935",
         "users": {
             "id": "1151500516380119091",
@@ -133,6 +138,7 @@
         "review_text": "Nameplates, new type of Discord Collectibles that make your name stand out!",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-18T12:35:36.45",
         "users": {
             "id": "1151500516380119091",
@@ -152,6 +158,7 @@
         "review_text": "ONLY 1 COLLECTIBLE? WHY?",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-18T09:29:03.5",
         "users": {
             "id": "1151500516380119091",
@@ -171,6 +178,7 @@
         "review_text": "first, I LOVE BREAKFAST",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-18T09:27:33.667",
         "users": {
             "id": "1151500516380119091",
@@ -190,6 +198,7 @@
         "review_text": "new collection when",
         "review_flag_type": 0,
         "report_type": 2,
+        "system_type": 0,
         "created_at": "2025-04-18T09:24:07.261",
         "users": {
             "id": "1151500516380119091",
@@ -209,6 +218,7 @@
         "review_text": ":thing:",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-18T09:07:04.466",
         "users": {
             "id": "624091967625625610",
@@ -228,6 +238,7 @@
         "review_text": "idk if this is cheap or expensive",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-18T04:36:57.171",
         "users": {
             "id": "624091967625625610",
@@ -247,6 +258,7 @@
         "review_text": "custom emoji test :thing: ignore",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-18T03:09:10.42",
         "users": {
             "id": "1169899815983915121",
@@ -285,6 +297,7 @@
         "review_text": "it's gamer themed but the gamer stereotype",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-17T09:16:42.787",
         "users": {
             "id": "935621080092123156",
@@ -311,6 +324,7 @@
         "review_text": "i love free",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-17T07:54:35.717",
         "users": {
             "id": "822796138989092865",
@@ -330,6 +344,7 @@
         "review_text": "boooo",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-17T06:30:03.977",
         "users": {
             "id": "935621080092123156",
@@ -356,6 +371,7 @@
         "review_text": "&lt;img src=x onerror=&quot;alert(&#34;hackeredsmackered&#34;)&quot;&gt;",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-17T06:22:54.79",
         "users": {
             "id": "935621080092123156",
@@ -382,6 +398,7 @@
         "review_text": "Automatically generated as identity 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-17T06:03:15.38856",
         "users": {
             "id": "-4",
@@ -401,6 +418,7 @@
         "review_text": "test :thing:",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-17T05:55:01.677",
         "users": {
             "id": "1224078342341529683",
@@ -457,6 +475,7 @@
         "review_text": "GGEZ",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-17T04:52:06.042",
         "users": {
             "id": "329671025312923648",
@@ -476,6 +495,7 @@
         "review_text": "Reported Review 2",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-16T20:19:14.77792",
         "users": {
             "id": "-3",
@@ -495,6 +515,7 @@
         "review_text": "Reported Review",
         "review_flag_type": 0,
         "report_type": 1,
+        "system_type": 0,
         "created_at": "2025-04-15T08:01:31.887506",
         "users": {
             "id": "-2",
@@ -514,6 +535,7 @@
         "review_text": "Flagged Review",
         "review_flag_type": 2,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-15T07:59:38.48704",
         "users": {
             "id": "-1",
@@ -533,6 +555,7 @@
         "review_text": "Write a review for Reviews Test Category...",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-15T07:56:18.01",
         "users": {
             "id": "1169899815983915121",
@@ -571,6 +594,7 @@
         "review_text": "good",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-14T11:02:31.217",
         "users": {
             "id": "989835142946238505",
@@ -590,6 +614,7 @@
         "review_text": "boo 👎",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-14T08:14:57.129",
         "users": {
             "id": "624091967625625610",
@@ -609,6 +634,7 @@
         "review_text": "boo",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-14T08:04:40.471",
         "users": {
             "id": "1169899815983915121",
@@ -647,6 +673,7 @@
         "review_text": "The nitro is a little overpriced tbh",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-14T02:18:39.731",
         "users": {
             "id": "1169899815983915121",
@@ -685,6 +712,7 @@
         "review_text": "0 star test (shit filter test)",
         "review_flag_type": 2,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-13T05:57:33.986",
         "users": {
             "id": "1169899815983915121",
@@ -723,6 +751,7 @@
         "review_text": "i want breakfast plate back right now!!!!! 2",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-13T05:14:42.151",
         "users": {
             "id": "1169899815983915121",
@@ -761,6 +790,7 @@
         "review_text": "review",
         "review_flag_type": 0,
         "report_type": 0,
+        "system_type": 0,
         "created_at": "2025-04-13T03:57:49.25",
         "users": {
             "id": "1049207768785100880",
