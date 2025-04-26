@@ -17,7 +17,7 @@ const apis = [
     { name: 'collectibles-orbs', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=orbs' },
     { name: 'collectibles-nameplates', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=nameplates' },
     { name: 'collectibles-consumables', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=consumables' },
-    { name: 'collectibles-miscellaneous', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=miscellaneous&include-published=true' },
+    { name: 'collectibles-miscellaneous', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=miscellaneous&include-purchasable=true' },
     { name: 'collectibles-marketing', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=marketing' },
     { name: 'pplus-home', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=pplus-home' },
     { name: 'pplus', url: 'https://api.yapper.shop/v2/collectibles-shop?tab=pplus' },
