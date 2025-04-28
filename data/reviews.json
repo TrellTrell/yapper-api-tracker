@@ -766,7 +766,14 @@
         "users": {
             "id": "-1",
             "avatar": null,
-            "badges": null,
+            "badges": [
+                {
+                    "id": "1",
+                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
+                    "name": "Shop Archives Staff",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                }
+            ],
             "system": true,
             "username": "test_review_account_1"
         },
