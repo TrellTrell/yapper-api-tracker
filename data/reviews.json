@@ -66,6 +66,33 @@
         }
     },
     {
+        "id": 123,
+        "rating": null,
+        "review_text": "Do NOT ask questions about nameplates in your review, your review will be deleted and you will be banned from posting reviews! Please report any reviews that break this rule.",
+        "review_flag_type": 0,
+        "report_type": 5,
+        "system_type": 1,
+        "created_at": null,
+        "users": {
+            "id": "1342635740768501886",
+            "avatar": "e1fa77194318023a95bd71a439f6cad5",
+            "badges": [
+                {
+                    "id": "1",
+                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
+                    "name": "Shop Archives Staff",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                }
+            ],
+            "system": true,
+            "username": "Shop Archives"
+        },
+        "items": {
+            "id": "1",
+            "name": "Reviews Test Category"
+        }
+    },
+    {
         "id": 126,
         "rating": null,
         "review_text": "Do NOT ask questions about nameplates in your review, your review will be deleted and you will be banned from posting reviews! Please report any reviews that break this rule.",
@@ -93,30 +120,30 @@
         }
     },
     {
-        "id": 123,
-        "rating": null,
-        "review_text": "Do NOT ask questions about nameplates in your review, your review will be deleted and you will be banned from posting reviews! Please report any reviews that break this rule.",
+        "id": 137,
+        "rating": 1,
+        "review_text": "no just no",
         "review_flag_type": 0,
-        "report_type": 5,
-        "system_type": 1,
-        "created_at": null,
+        "report_type": 0,
+        "system_type": 0,
+        "created_at": "2025-04-29T19:10:56.308",
         "users": {
-            "id": "1342635740768501886",
-            "avatar": "e1fa77194318023a95bd71a439f6cad5",
+            "id": "935621080092123156",
+            "avatar": "f9838dc85c285dd33cc3aa8dd5440611",
             "badges": [
                 {
-                    "id": "1",
-                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
-                    "name": "Shop Archives Staff",
-                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                    "id": "4",
+                    "src": "https://cdn.yapper.shop/assets/badges/3.png",
+                    "name": "Shop Archives Bug Hunter",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#bug-hunter"
                 }
             ],
-            "system": true,
-            "username": "Shop Archives"
+            "system": false,
+            "username": "traox_"
         },
         "items": {
-            "id": "1",
-            "name": "Reviews Test Category"
+            "id": "1349849614353829990",
+            "name": "Nameplates"
         }
     },
     {
