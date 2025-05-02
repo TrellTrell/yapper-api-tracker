@@ -19,7 +19,8 @@
                 }
             ],
             "system": true,
-            "username": "Shop Archives"
+            "username": "Shop Archives",
+            "global_name": null
         },
         "items": {
             "id": "1344802365307621427",
@@ -58,7 +59,8 @@
                 }
             ],
             "system": false,
-            "username": "yanoiwascat"
+            "username": "yanoiwascat",
+            "global_name": "DTACat"
         },
         "items": {
             "id": "1349486948942745691",
@@ -85,7 +87,8 @@
                 }
             ],
             "system": true,
-            "username": "Shop Archives"
+            "username": "Shop Archives",
+            "global_name": null
         },
         "items": {
             "id": "1349849614353829990",
@@ -112,7 +115,8 @@
                 }
             ],
             "system": true,
-            "username": "Shop Archives"
+            "username": "Shop Archives",
+            "global_name": null
         },
         "items": {
             "id": "1",
@@ -132,7 +136,8 @@
             "avatar": "60e52a11f41cb48324b04ec692bcdf3a",
             "badges": null,
             "system": false,
-            "username": "jellythecutie"
+            "username": "jellythecutie",
+            "global_name": "Jelly💝"
         },
         "items": {
             "id": "1285465421339693076",
@@ -159,7 +164,8 @@
                 }
             ],
             "system": false,
-            "username": "traox_"
+            "username": "traox_",
+            "global_name": "steve"
         },
         "items": {
             "id": "1349849614353829990",
@@ -179,7 +185,8 @@
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
             "badges": null,
             "system": false,
-            "username": "bachhummus"
+            "username": "bachhummus",
+            "global_name": "Bach Hummus"
         },
         "items": {
             "id": "1",
@@ -218,7 +225,8 @@
                 }
             ],
             "system": false,
-            "username": "yanoiwascat"
+            "username": "yanoiwascat",
+            "global_name": "DTACat"
         },
         "items": {
             "id": "2",
@@ -257,7 +265,8 @@
                 }
             ],
             "system": false,
-            "username": "yanoiwascat"
+            "username": "yanoiwascat",
+            "global_name": "DTACat"
         },
         "items": {
             "id": "1309309974266118144",
@@ -277,7 +286,8 @@
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
             "badges": null,
             "system": false,
-            "username": "bachhummus"
+            "username": "bachhummus",
+            "global_name": "Bach Hummus"
         },
         "items": {
             "id": "1349486948942745691",
@@ -304,7 +314,8 @@
                 }
             ],
             "system": false,
-            "username": "seele.ai"
+            "username": "seele.ai",
+            "global_name": "Seele"
         },
         "items": {
             "id": "1252404112650407998",
@@ -331,7 +342,8 @@
                 }
             ],
             "system": false,
-            "username": "seele.ai"
+            "username": "seele.ai",
+            "global_name": "Seele"
         },
         "items": {
             "id": "1349849614353829990",
@@ -358,7 +370,8 @@
                 }
             ],
             "system": false,
-            "username": "seele.ai"
+            "username": "seele.ai",
+            "global_name": "Seele"
         },
         "items": {
             "id": "1357589632723849316",
@@ -378,7 +391,8 @@
             "avatar": "a_6dcf0b2c03e0ddf82624f8986c262a43",
             "badges": null,
             "system": false,
-            "username": "tasmaniandevil02"
+            "username": "tasmaniandevil02",
+            "global_name": "𝕋𝕒𝕤𝕞𝕒𝕟𝕚𝕒𝕟𝕕𝕖𝕧𝕚𝕝"
         },
         "items": {
             "id": "1357589632723849316",
@@ -398,7 +412,8 @@
             "avatar": "f97cd090ba67e4d6b9ba2afd06641608",
             "badges": null,
             "system": false,
-            "username": "polskaserver"
+            "username": "polskaserver",
+            "global_name": "Polska Server"
         },
         "items": {
             "id": "1352407446500675708",
@@ -418,7 +433,8 @@
             "avatar": "f97cd090ba67e4d6b9ba2afd06641608",
             "badges": null,
             "system": false,
-            "username": "polskaserver"
+            "username": "polskaserver",
+            "global_name": "Polska Server"
         },
         "items": {
             "id": "1349849614353829990",
@@ -438,7 +454,8 @@
             "avatar": "f97cd090ba67e4d6b9ba2afd06641608",
             "badges": null,
             "system": false,
-            "username": "polskaserver"
+            "username": "polskaserver",
+            "global_name": "Polska Server"
         },
         "items": {
             "id": "1349486948942745691",
@@ -458,7 +475,8 @@
             "avatar": "f97cd090ba67e4d6b9ba2afd06641608",
             "badges": null,
             "system": false,
-            "username": "polskaserver"
+            "username": "polskaserver",
+            "global_name": "Polska Server"
         },
         "items": {
             "id": "1354894010849820852",
@@ -478,7 +496,8 @@
             "avatar": "f97cd090ba67e4d6b9ba2afd06641608",
             "badges": null,
             "system": false,
-            "username": "polskaserver"
+            "username": "polskaserver",
+            "global_name": "Polska Server"
         },
         "items": {
             "id": "1357589632723849316",
@@ -498,7 +517,8 @@
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
             "badges": null,
             "system": false,
-            "username": "bachhummus"
+            "username": "bachhummus",
+            "global_name": "Bach Hummus"
         },
         "items": {
             "id": "1357589632723849316",
@@ -518,7 +538,8 @@
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
             "badges": null,
             "system": false,
-            "username": "bachhummus"
+            "username": "bachhummus",
+            "global_name": "Bach Hummus"
         },
         "items": {
             "id": "1332505418219655258",
@@ -557,7 +578,8 @@
                 }
             ],
             "system": false,
-            "username": "yanoiwascat"
+            "username": "yanoiwascat",
+            "global_name": "DTACat"
         },
         "items": {
             "id": "0",
@@ -584,7 +606,8 @@
                 }
             ],
             "system": false,
-            "username": "traox_"
+            "username": "traox_",
+            "global_name": "steve"
         },
         "items": {
             "id": "1357589632723849316",
@@ -604,7 +627,8 @@
             "avatar": "4da8dc1e94a49cd66ee0c031febfea7f",
             "badges": null,
             "system": false,
-            "username": "cerll"
+            "username": "cerll",
+            "global_name": null
         },
         "items": {
             "id": "1332505418219655258",
@@ -631,7 +655,8 @@
                 }
             ],
             "system": false,
-            "username": "traox_"
+            "username": "traox_",
+            "global_name": "steve"
         },
         "items": {
             "id": "1217622942175727736",
@@ -658,7 +683,8 @@
                 }
             ],
             "system": false,
-            "username": "traox_"
+            "username": "traox_",
+            "global_name": "steve"
         },
         "items": {
             "id": "1232029045928099922",
@@ -678,7 +704,8 @@
             "avatar": null,
             "badges": null,
             "system": true,
-            "username": "test_review_account_4"
+            "username": "test_review_account_4",
+            "global_name": null
         },
         "items": {
             "id": "1",
@@ -735,7 +762,8 @@
                 }
             ],
             "system": false,
-            "username": "zywenth"
+            "username": "zywenth",
+            "global_name": "Thumpus"
         },
         "items": {
             "id": "1",
@@ -755,7 +783,8 @@
             "avatar": "a_bcb6f84f32dc643e8436d50a9c6d23e9",
             "badges": null,
             "system": false,
-            "username": "tolgchu"
+            "username": "tolgchu",
+            "global_name": "Bakachu"
         },
         "items": {
             "id": "1357589632723849316",
@@ -775,7 +804,8 @@
             "avatar": null,
             "badges": null,
             "system": true,
-            "username": "test_review_account_3"
+            "username": "test_review_account_3",
+            "global_name": null
         },
         "items": {
             "id": "1",
@@ -795,7 +825,8 @@
             "avatar": null,
             "badges": null,
             "system": true,
-            "username": "test_review_account_2"
+            "username": "test_review_account_2",
+            "global_name": null
         },
         "items": {
             "id": "1",
@@ -822,7 +853,8 @@
                 }
             ],
             "system": true,
-            "username": "test_review_account_1"
+            "username": "test_review_account_1",
+            "global_name": null
         },
         "items": {
             "id": "1",
@@ -861,7 +893,8 @@
                 }
             ],
             "system": false,
-            "username": "yanoiwascat"
+            "username": "yanoiwascat",
+            "global_name": "DTACat"
         },
         "items": {
             "id": "1",
@@ -881,7 +914,8 @@
             "avatar": "ca5e635e61a9a8e17d9440e78400d307",
             "badges": null,
             "system": false,
-            "username": "blacktiger_snr"
+            "username": "blacktiger_snr",
+            "global_name": "BlackTiger"
         },
         "items": {
             "id": "1349849614353829990",
@@ -901,7 +935,8 @@
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
             "badges": null,
             "system": false,
-            "username": "bachhummus"
+            "username": "bachhummus",
+            "global_name": "Bach Hummus"
         },
         "items": {
             "id": "1217622942175727736",
@@ -940,7 +975,8 @@
                 }
             ],
             "system": false,
-            "username": "yanoiwascat"
+            "username": "yanoiwascat",
+            "global_name": "DTACat"
         },
         "items": {
             "id": "1217622942175727736",
@@ -979,7 +1015,8 @@
                 }
             ],
             "system": false,
-            "username": "yanoiwascat"
+            "username": "yanoiwascat",
+            "global_name": "DTACat"
         },
         "items": {
             "id": "1332505418219655258",
@@ -1018,7 +1055,8 @@
                 }
             ],
             "system": false,
-            "username": "yanoiwascat"
+            "username": "yanoiwascat",
+            "global_name": "DTACat"
         },
         "items": {
             "id": "1144058340327047249",
@@ -1057,7 +1095,8 @@
                 }
             ],
             "system": false,
-            "username": "yanoiwascat"
+            "username": "yanoiwascat",
+            "global_name": "DTACat"
         },
         "items": {
             "id": "1144054000099012659",
@@ -1096,7 +1135,8 @@
                 }
             ],
             "system": false,
-            "username": "trell_ie"
+            "username": "trell_ie",
+            "global_name": "Trellnium"
         },
         "items": {
             "id": "1349486948942745691",
