@@ -124,6 +124,46 @@
         }
     },
     {
+        "id": 141,
+        "rating": 5,
+        "review_text": "would",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "system_type": 0,
+        "created_at": "2025-05-03T03:40:40.484",
+        "users": {
+            "id": "1169899815983915121",
+            "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
+            "badges": [
+                {
+                    "id": "1",
+                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
+                    "name": "Shop Archives Staff",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                },
+                {
+                    "id": "2",
+                    "src": "https://cdn.yapper.shop/assets/badges/2.png",
+                    "name": "Collectibles Dataminer",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#collectibles-dataminer"
+                },
+                {
+                    "id": "3",
+                    "src": "https://cdn.yapper.shop/assets/badges/4.png",
+                    "name": "Shop Archives Bug Hunter",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#bug-hunter"
+                }
+            ],
+            "system": false,
+            "username": "yanoiwascat",
+            "global_name": "DTACat"
+        },
+        "items": {
+            "id": "1344802365307621427",
+            "name": "Nameplate Test"
+        }
+    },
+    {
         "id": 145,
         "rating": 3,
         "review_text": "Too expensive",
@@ -161,46 +201,6 @@
         "items": {
             "id": "1365410896222097539",
             "name": "Star Wars"
-        }
-    },
-    {
-        "id": 141,
-        "rating": 4,
-        "review_text": "hoax",
-        "review_flag_type": 0,
-        "report_type": 0,
-        "system_type": 0,
-        "created_at": "2025-05-02T22:43:05.682",
-        "users": {
-            "id": "1169899815983915121",
-            "avatar": "8d7069d18db1799e4686b9e923b1d7c3",
-            "badges": [
-                {
-                    "id": "1",
-                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
-                    "name": "Shop Archives Staff",
-                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
-                },
-                {
-                    "id": "2",
-                    "src": "https://cdn.yapper.shop/assets/badges/2.png",
-                    "name": "Collectibles Dataminer",
-                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#collectibles-dataminer"
-                },
-                {
-                    "id": "3",
-                    "src": "https://cdn.yapper.shop/assets/badges/4.png",
-                    "name": "Shop Archives Bug Hunter",
-                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#bug-hunter"
-                }
-            ],
-            "system": false,
-            "username": "yanoiwascat",
-            "global_name": "DTACat"
-        },
-        "items": {
-            "id": "1344802365307621427",
-            "name": "Nameplate Test"
         }
     },
     {
