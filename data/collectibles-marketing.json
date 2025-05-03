@@ -923,6 +923,61 @@
                         }
                     }
                 }
+            },
+            {
+                "id": 26,
+                "name": "Star Wars™",
+                "summary": "May the Force be with you.",
+                "asset": "a_cb8bbe431a4c3b88c11096ff8b46907a",
+                "src": "https://cdn.discordapp.com/assets/content/8690af43b91296b7edd2272517ff51da5db6336aa24a2c40b72ee7f77c4906b9.png",
+                "category_sku_id": "1365410896222097539",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 26,
+                            "title": "Star Wars™",
+                            "body": "May the Force be with you.",
+                            "avatar": "https://cdn.discordapp.com/assets/content/8690af43b91296b7edd2272517ff51da5db6336aa24a2c40b72ee7f77c4906b9.png",
+                            "decorations": [
+                                "a_cb8bbe431a4c3b88c11096ff8b46907a",
+                                "a_d24449b1314d7df967b15705fa34b07e",
+                                "a_19e053e58025f79b2d5fbb0b891408f1"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": {
+                                "style": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": null,
+                                        "dark": null
+                                    }
+                                },
+                                "asset": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": "https://cdn.discordapp.com/assets/content/bd30a5da2146cd4dad6209a6c3789a53b2a44f575945a305baabc2610b617728.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/bd30a5da2146cd4dad6209a6c3789a53b2a44f575945a305baabc2610b617728.png"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 26,
+                            "title": "Create your dream Star Wars™ profile",
+                            "body": "Check out new Star Wars™ Profile Effects and Avatar Decorations, featuring R2-D2, Darth Vader and more. © LFL",
+                            "asset": "https://cdn.discordapp.com/assets/content/f37548c43e89e53c83e44a9ddc338caec74759054fb24a021e70c94e0fc74633.jpg",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/9b1f0840055b8c0179445fa287b23ba795345daa4c03c574735d4a170871d070.png"
+                        }
+                    }
+                }
             }
         ]
     }
