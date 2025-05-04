@@ -270,7 +270,14 @@
         "users": {
             "id": "624091967625625610",
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
-            "badges": null,
+            "badges": [
+                {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#official-server-booster"
+                }
+            ],
             "system": false,
             "username": "bachhummus",
             "global_name": "Bach Hummus"
@@ -371,7 +378,14 @@
         "users": {
             "id": "624091967625625610",
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
-            "badges": null,
+            "badges": [
+                {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#official-server-booster"
+                }
+            ],
             "system": false,
             "username": "bachhummus",
             "global_name": "Bach Hummus"
@@ -398,6 +412,12 @@
                     "src": "https://cdn.yapper.shop/assets/badges/1.png",
                     "name": "Shop Archives Staff",
                     "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                },
+                {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#official-server-booster"
                 }
             ],
             "system": false,
@@ -426,6 +446,12 @@
                     "src": "https://cdn.yapper.shop/assets/badges/1.png",
                     "name": "Shop Archives Staff",
                     "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                },
+                {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#official-server-booster"
                 }
             ],
             "system": false,
@@ -454,6 +480,12 @@
                     "src": "https://cdn.yapper.shop/assets/badges/1.png",
                     "name": "Shop Archives Staff",
                     "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                },
+                {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#official-server-booster"
                 }
             ],
             "system": false,
@@ -602,7 +634,14 @@
         "users": {
             "id": "624091967625625610",
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
-            "badges": null,
+            "badges": [
+                {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#official-server-booster"
+                }
+            ],
             "system": false,
             "username": "bachhummus",
             "global_name": "Bach Hummus"
@@ -623,7 +662,14 @@
         "users": {
             "id": "624091967625625610",
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
-            "badges": null,
+            "badges": [
+                {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#official-server-booster"
+                }
+            ],
             "system": false,
             "username": "bachhummus",
             "global_name": "Bach Hummus"
@@ -1026,7 +1072,14 @@
         "users": {
             "id": "624091967625625610",
             "avatar": "a_948ac03ca5593f7942e7296c61c2444b",
-            "badges": null,
+            "badges": [
+                {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#official-server-booster"
+                }
+            ],
             "system": false,
             "username": "bachhummus",
             "global_name": "Bach Hummus"
