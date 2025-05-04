@@ -824,6 +824,12 @@
                     "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
                 },
                 {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#server-booster"
+                },
+                {
                     "id": "2",
                     "src": "https://cdn.yapper.shop/assets/badges/2.png",
                     "name": "Collectibles Dataminer",
