@@ -214,7 +214,14 @@
         "users": {
             "id": "1147940825330876538",
             "avatar": "60e52a11f41cb48324b04ec692bcdf3a",
-            "badges": null,
+            "badges": [
+                {
+                    "id": "1",
+                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
+                    "name": "Shop Archives Staff",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                }
+            ],
             "system": false,
             "username": "jellythecutie",
             "global_name": "Jelly💝"
