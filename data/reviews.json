@@ -937,7 +937,14 @@
         "users": {
             "id": "-1",
             "avatar": null,
-            "badges": null,
+            "badges": [
+                {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#server-booster"
+                }
+            ],
             "system": true,
             "username": "test_review_account_1",
             "global_name": null
