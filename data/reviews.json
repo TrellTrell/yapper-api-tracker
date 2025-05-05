@@ -140,6 +140,12 @@
                     "src": "https://cdn.yapper.shop/assets/badges/1.png",
                     "name": "Shop Archives Staff",
                     "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                },
+                {
+                    "id": "4",
+                    "src": "https://cdn.yapper.shop/assets/badges/3.png",
+                    "name": "Shop Archives Bug Hunter",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#bug-hunter"
                 }
             ],
             "system": false,
@@ -168,6 +174,12 @@
                     "src": "https://cdn.yapper.shop/assets/badges/1.png",
                     "name": "Shop Archives Staff",
                     "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                },
+                {
+                    "id": "4",
+                    "src": "https://cdn.yapper.shop/assets/badges/3.png",
+                    "name": "Shop Archives Bug Hunter",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#bug-hunter"
                 }
             ],
             "system": false,
@@ -276,6 +288,12 @@
                     "src": "https://cdn.yapper.shop/assets/badges/1.png",
                     "name": "Shop Archives Staff",
                     "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#staff"
+                },
+                {
+                    "id": "4",
+                    "src": "https://cdn.yapper.shop/assets/badges/3.png",
+                    "name": "Shop Archives Bug Hunter",
+                    "support": "https://github.com/ShopArchives/support/blob/main/article/1-badges.md#bug-hunter"
                 }
             ],
             "system": false,
