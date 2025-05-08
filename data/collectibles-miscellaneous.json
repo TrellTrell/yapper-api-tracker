@@ -4388,6 +4388,94 @@
                 "premium_type": 0,
                 "category_sku_id": "1309309974266118144",
                 "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1369388182927442022",
+                "name": "Fortnite Galactic Battle",
+                "summary": "Exclusive to the Fortnite Galactic Battle Quest for a limited time.",
+                "store_listing_id": "1369388182927442023",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "expires_at": "2025-07-13T23:00:00+00:00",
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1369388182927442024",
+                        "sku_id": "1369388182927442022",
+                        "asset": "a_d64e7cbab0cabc48de3cebe400bd5505",
+                        "label": "Circular frame with two curved lines framing where a user's avatar would appear. The top curve is blue with a small circular emblem, while the bottom curve is red with a wheel-like symbol."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
             }
         ]
     },
