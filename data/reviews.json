@@ -1,6 +1,6 @@
 [
     {
-        "id": 123,
+        "id": 126,
         "rating": null,
         "review_text": "Do NOT ask questions about nameplates in your review, your review will be deleted and you will be banned from posting reviews! Please report any reviews that break this rule.",
         "review_flag_type": 0,
@@ -23,8 +23,8 @@
             "global_name": "Shop Archives"
         },
         "items": {
-            "id": "1",
-            "name": "Reviews Test Category"
+            "id": "1344802365307621427",
+            "name": "Nameplate Test"
         }
     },
     {
@@ -96,7 +96,7 @@
         }
     },
     {
-        "id": 126,
+        "id": 123,
         "rating": null,
         "review_text": "Do NOT ask questions about nameplates in your review, your review will be deleted and you will be banned from posting reviews! Please report any reviews that break this rule.",
         "review_flag_type": 0,
@@ -119,8 +119,8 @@
             "global_name": "Shop Archives"
         },
         "items": {
-            "id": "1344802365307621427",
-            "name": "Nameplate Test"
+            "id": "1",
+            "name": "Reviews Test Category"
         }
     },
     {
