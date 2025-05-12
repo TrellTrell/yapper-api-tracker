@@ -68,27 +68,6 @@
         }
     },
     {
-        "id": 182,
-        "rating": 5,
-        "review_text": "when new collectibles",
-        "review_flag_type": 0,
-        "report_type": 0,
-        "system_type": 0,
-        "created_at": "2025-05-12T12:35:21.849",
-        "users": {
-            "id": "1151500516380119091",
-            "avatar": "a9287f2a50bf23db9daf1f500e0048ec",
-            "badges": null,
-            "system": false,
-            "username": "polskaserver",
-            "global_name": "Polska Server"
-        },
-        "items": {
-            "id": "1365410896222097539",
-            "name": "Star Wars"
-        }
-    },
-    {
         "id": 181,
         "rating": 5,
         "review_text": "now i can touch grass without ever needing to touch grass. thanks discord!🍃👋",
@@ -841,27 +820,6 @@
         "items": {
             "id": "1354894010849820852",
             "name": "Chibi Cafe"
-        }
-    },
-    {
-        "id": 117,
-        "rating": 5,
-        "review_text": "new collection when",
-        "review_flag_type": 0,
-        "report_type": 2,
-        "system_type": 0,
-        "created_at": "2025-04-18T09:24:07.261",
-        "users": {
-            "id": "1151500516380119091",
-            "avatar": "a9287f2a50bf23db9daf1f500e0048ec",
-            "badges": null,
-            "system": false,
-            "username": "polskaserver",
-            "global_name": "Polska Server"
-        },
-        "items": {
-            "id": "1357589632723849316",
-            "name": "GGEZ"
         }
     },
     {
