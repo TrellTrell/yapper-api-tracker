@@ -978,6 +978,41 @@
                         }
                     }
                 }
+            },
+            {
+                "id": 27,
+                "name": "Cosy Valley",
+                "summary": null,
+                "asset": "a_d5bbba33a9471255027f590d671ea0ef",
+                "src": "https://cdn.discordapp.com/assets/content/e04404d3e0e174f3e72a74849672620e340dc52207289d7f3814a53cbf28cd1b.png",
+                "category_sku_id": "1369434230962262128",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 27,
+                            "title": "Check out new Cosy Valley arrivals.",
+                            "body": null,
+                            "avatar": "https://cdn.discordapp.com/assets/content/e04404d3e0e174f3e72a74849672620e340dc52207289d7f3814a53cbf28cd1b.png",
+                            "decorations": [
+                                "a_d5bbba33a9471255027f590d671ea0ef",
+                                "a_71c5b605d5bf95fc43e5335fd760c482",
+                                "a_be4db88443a3654b40344162abcb62df"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": null
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 27,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest Avatar Decorations and Profile Effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/df0f278e4985930a0afe683b032803387212c882ab2da58fa549a38c89054cd4.jpg",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/049b1d8c53f9e86bf1dac0fdeef4909d4a2887c692867c076297c502ed5bfe24.png",
+                            "revert_text_color": true
+                        }
+                    }
+                }
             }
         ]
     }
