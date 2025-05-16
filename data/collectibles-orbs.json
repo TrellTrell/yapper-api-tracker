@@ -66,7 +66,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 60,
+                                    "amount": 70,
                                     "currency": "discord_orb",
                                     "exponent": 0
                                 }
@@ -78,7 +78,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 60,
+                                    "amount": 70,
                                     "currency": "discord_orb",
                                     "exponent": 0
                                 }
@@ -147,7 +147,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1200,
+                                    "amount": 1400,
                                     "currency": "discord_orb",
                                     "exponent": 0
                                 }
@@ -159,7 +159,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 1200,
+                                    "amount": 1400,
                                     "currency": "discord_orb",
                                     "exponent": 0
                                 }
@@ -228,7 +228,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 3000,
+                                    "amount": 3500,
                                     "currency": "discord_orb",
                                     "exponent": 0
                                 }
@@ -240,7 +240,7 @@
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 3000,
+                                    "amount": 3500,
                                     "currency": "discord_orb",
                                     "exponent": 0
                                 }
