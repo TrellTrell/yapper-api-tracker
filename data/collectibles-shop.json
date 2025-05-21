@@ -1,5 +1,237 @@
 [
     {
+        "sku_id": "1373015260595884082",
+        "name": "My Hero Academia",
+        "summary": null,
+        "store_listing_id": null,
+        "banner": "1373015260608593982",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                15920085,
+                14977612
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": null,
+        "hero_ranking": null,
+        "mobile_bg": null,
+        "pdp_bg": null,
+        "success_modal_bg": null,
+        "mobile_banner": null,
+        "featured_block": null,
+        "hero_banner": null,
+        "wide_banner": null,
+        "hero_logo": null,
+        "products": [
+            {
+                "sku_id": "1373015260528902205",
+                "name": "Full Cowling",
+                "summary": "Izuko Midoriya's Ultimate Move.",
+                "store_listing_id": "1373015260532969612",
+                "banner": "1373015260608593982",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        15920085,
+                        14977612
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1373015260541227128",
+                        "sku_id": "1373015260528902205"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1373015260595884082",
+                "google_sku_ids": {
+                    "5": "1373015260528902205_1374056999221989458",
+                    "7": "1373015260528902205_1374057006088060948"
+                }
+            },
+            {
+                "sku_id": "1373015260549873715",
+                "name": "Cluster",
+                "summary": "Katsuki Bakugo's Ultimate Move.",
+                "store_listing_id": "1373015260553941162",
+                "banner": "1373015260608593982",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        15920085,
+                        14977612
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1373015260562198608",
+                        "sku_id": "1373015260549873715"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1373015260595884082",
+                "google_sku_ids": {
+                    "5": "1373015260549873715_1374060609112510514",
+                    "7": "1373015260549873715_1374060616880492625"
+                }
+            },
+            {
+                "sku_id": "1373015260570845185",
+                "name": "League of Villains",
+                "summary": "Meet Tomura Shigaraki, Dabi, and Himiko Toga.",
+                "store_listing_id": "1373015260574912602",
+                "banner": "1373015260608593982",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        15920085,
+                        14977612
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1373015260583170089",
+                        "sku_id": "1373015260570845185"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1373015260595884082",
+                "google_sku_ids": {
+                    "5": "1373015260570845185_1374060673734279298",
+                    "7": "1373015260570845185_1374060680990294038"
+                }
+            }
+        ]
+    },
+    {
         "sku_id": "1369434230962262128",
         "name": "Cozy Valley",
         "summary": "A little slice of paradise.",
