@@ -1013,6 +1013,61 @@
                         }
                     }
                 }
+            },
+            {
+                "id": 28,
+                "name": "My Hero Academia",
+                "summary": "Go Beyond, Plus Ultra!",
+                "asset": "a_218a429c396bd5c924d70c0c1358db39",
+                "src": "https://cdn.discordapp.com/assets/content/8690af43b91296b7edd2272517ff51da5db6336aa24a2c40b72ee7f77c4906b9.png",
+                "category_sku_id": "1373015260595884082",
+                "raw": {
+                    "marketings": {
+                        "0": {
+                            "type": 0,
+                            "version": 28,
+                            "title": "My Hero Academia",
+                            "body": "Go Beyond, Plus Ultra!",
+                            "avatar": "https://cdn.discordapp.com/assets/content/8690af43b91296b7edd2272517ff51da5db6336aa24a2c40b72ee7f77c4906b9.png",
+                            "decorations": [
+                                "a_218a429c396bd5c924d70c0c1358db39",
+                                "a_47b3f88e17a2d43a318a5142dc3d788d",
+                                "a_f02912fdcaf063325450b0122d8e4e38"
+                            ],
+                            "dismissible_content": 422,
+                            "ref_target_background": {
+                                "style": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": null,
+                                        "dark": null
+                                    }
+                                },
+                                "asset": {
+                                    "resting": {
+                                        "light": null,
+                                        "dark": null
+                                    },
+                                    "hovered": {
+                                        "light": "https://cdn.discordapp.com/assets/content/0ba082ae3f800978fd6e20fd74d0aec9535ed79eadf1f492ac1e5c2a48c3d0f0.png",
+                                        "dark": "https://cdn.discordapp.com/assets/content/0ba082ae3f800978fd6e20fd74d0aec9535ed79eadf1f492ac1e5c2a48c3d0f0.png"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "type": 2,
+                            "version": 28,
+                            "title": "Give your profile a fresh look",
+                            "body": "Check out the latest Avatar Decorations and Profile Effects and collect your favourite styles.",
+                            "asset": "https://cdn.discordapp.com/assets/content/f4b420ab6b1a5b4c4e298d95db162d819641c0272d3c0471501dcaf9b09123a4.jpg",
+                            "popout_asset": "https://cdn.discordapp.com/assets/content/1b8314c81be7de1cd49966d7ec47ce838bb8177f6a385f7dd8a4d1902c670551.png"
+                        }
+                    }
+                }
             }
         ]
     }
