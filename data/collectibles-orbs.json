@@ -288,6 +288,93 @@
                     "5": "1332505467980873728_1339328503488971005",
                     "7": "1332505467980873728_1339328518999244901"
                 }
+            },
+            {
+                "sku_id": "1351351503339913256",
+                "name": "Magic Mists",
+                "summary": "What do the mists reveal?",
+                "store_listing_id": "1351352638830153778",
+                "banner": "1355314329989284141",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1335620,
+                        137742
+                    ],
+                    "button_colors": [
+                        165687,
+                        26954
+                    ],
+                    "confetti_colors": [
+                        15706103,
+                        11945665,
+                        5682099,
+                        1737113,
+                        7430319,
+                        11454463
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 3500,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 3500,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1351351542392815616",
+                        "sku_id": "1351351503339913256"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1332505418219655258",
+                "google_sku_ids": {}
             }
         ]
     }
