@@ -4478,6 +4478,93 @@
                 "google_sku_ids": {}
             },
             {
+                "sku_id": "1369404111484751873",
+                "name": "Freshly Picked",
+                "summary": "Now where’s my blender?",
+                "store_listing_id": "1369404111484751872",
+                "banner": "1309310034387271730",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        4620287,
+                        1396431
+                    ],
+                    "button_colors": [
+                        4507647,
+                        40447
+                    ],
+                    "confetti_colors": [
+                        4047871,
+                        2718463,
+                        16616447,
+                        16727029
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 0,
+                                    "currency": "nzd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1369404111484751874",
+                        "sku_id": "1369404111484751873",
+                        "asset": "a_f6d7905998db3f6f57671b4ea70fa272",
+                        "label": "Beautiful, juicy strawberries, blueberries, and oranges, still wet from being washed, circle the outside of your avatar and remind you that summer is here."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309309974266118144",
+                "google_sku_ids": {}
+            },
+            {
                 "sku_id": "1371943141321609357",
                 "name": "Shield Saw",
                 "summary": "Exclusive to the DOOM: The Dark Ages Quest for a limited time.",
