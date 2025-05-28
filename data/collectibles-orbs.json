@@ -2,8 +2,8 @@
     {
         "sku_id": "1332505418219655258",
         "name": "Orb",
-        "summary": null,
-        "store_listing_id": null,
+        "summary": "Reward Your Play. Earn through Quests. Spend in the Shop.",
+        "store_listing_id": "1332505369779634207",
         "banner": "1355314329989284141",
         "unpublished_at": null,
         "styles": {
@@ -24,15 +24,27 @@
                 11454463
             ]
         },
-        "logo": null,
-        "hero_ranking": null,
+        "logo": "1357510859299098744",
+        "hero_ranking": [
+            "1342211853484429445",
+            "1333912750274904064",
+            "1351351503339913256",
+            "1332505467980873728"
+        ],
         "mobile_bg": null,
-        "pdp_bg": null,
-        "success_modal_bg": null,
+        "pdp_bg": "1351700283629113417",
+        "success_modal_bg": "1351700321809858580",
         "mobile_banner": null,
         "featured_block": null,
-        "hero_banner": "1336165352392097853",
-        "wide_banner": null,
+        "hero_banner": null,
+        "hero_block_title": "Introducing Discord Orbs",
+        "wide_banner": "1366547691168989295",
+        "wide_banner_asset": {
+            "animated": null,
+            "static": "https://cdn.discordapp.com/assets/content/1a68031e600ecb954fd6ea9d28ab0c0544457623f7a2c0f2b9137569c32800e8.png"
+        },
+        "wide_banner_title": "What can I get with Orbs?",
+        "wide_banner_body": "Orb Exclusive rewards can only be claimed with Orbs. Core Shop items accept either Orbs or home currency.",
         "hero_logo": null,
         "products": [
             {
@@ -81,30 +93,6 @@
                                     "amount": 70,
                                     "currency": "discord_orb",
                                     "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 0,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 0,
-                                    "currency": "nzd",
-                                    "exponent": 2
                                 }
                             ]
                         }
@@ -165,34 +153,73 @@
                                 }
                             ]
                         }
-                    },
-                    "5": {
+                    }
+                },
+                "items": [],
+                "type": 3000,
+                "premium_type": 0,
+                "category_sku_id": "1332505418219655258",
+                "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1351351503339913256",
+                "name": "Magic Mists",
+                "summary": "What do the mists reveal?",
+                "store_listing_id": "1351352638830153778",
+                "banner": "1355314329989284141",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1335620,
+                        137742
+                    ],
+                    "button_colors": [
+                        165687,
+                        26954
+                    ],
+                    "confetti_colors": [
+                        15706103,
+                        11945665,
+                        5682099,
+                        1737113,
+                        7430319,
+                        11454463
+                    ]
+                },
+                "prices": {
+                    "0": {
                         "country_prices": {
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 0,
-                                    "currency": "nzd",
-                                    "exponent": 2
+                                    "amount": 3500,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
                                 }
                             ]
                         }
                     },
-                    "7": {
+                    "4": {
                         "country_prices": {
                             "country_code": "US",
                             "prices": [
                                 {
-                                    "amount": 0,
-                                    "currency": "nzd",
-                                    "exponent": 2
+                                    "amount": 3500,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
                                 }
                             ]
                         }
                     }
                 },
-                "items": [],
-                "type": 3000,
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1351351542392815616",
+                        "sku_id": "1351351503339913256"
+                    }
+                ],
+                "type": 1,
                 "premium_type": 0,
                 "category_sku_id": "1332505418219655258",
                 "google_sku_ids": {}
@@ -246,30 +273,6 @@
                                 }
                             ]
                         }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 0,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 0,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
                     }
                 },
                 "items": [
@@ -288,94 +291,15 @@
                     "5": "1332505467980873728_1339328503488971005",
                     "7": "1332505467980873728_1339328518999244901"
                 }
-            },
-            {
-                "sku_id": "1351351503339913256",
-                "name": "Magic Mists",
-                "summary": "What do the mists reveal?",
-                "store_listing_id": "1351352638830153778",
-                "banner": "1355314329989284141",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1335620,
-                        137742
-                    ],
-                    "button_colors": [
-                        165687,
-                        26954
-                    ],
-                    "confetti_colors": [
-                        15706103,
-                        11945665,
-                        5682099,
-                        1737113,
-                        7430319,
-                        11454463
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 3500,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 3500,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 0,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 0,
-                                    "currency": "nzd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1351351542392815616",
-                        "sku_id": "1351351503339913256"
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1332505418219655258",
-                "google_sku_ids": {}
             }
-        ]
+        ],
+        "banner_asset": {
+            "animated": null,
+            "static": "https://cdn.discordapp.com/assets/content/3eb9dbf423a96a0985121a7382bdb212616466cafbf8399d56d2ac861461f238.png"
+        },
+        "hero_banner_asset": {
+            "animated": "https://cdn.discordapp.com/assets/content/0e1d75db519b369ff0e6d39432980cfa140de2e2ddecd7443c5fb6749bf1e1f8.webm",
+            "static": "https://cdn.discordapp.com/assets/content/8f774ab3b8482a9fd205e8b7285cc372448c4893d8fe9b50d37ddb70c922240d.png"
+        }
     }
 ]
