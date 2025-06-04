@@ -68,6 +68,34 @@
         }
     },
     {
+        "id": 193,
+        "rating": 2,
+        "review_text": "nameplates are boring",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "system_type": 0,
+        "created_at": "2025-06-04T20:39:43.124",
+        "users": {
+            "id": "822796138989092865",
+            "avatar": "b20ba816506f2121425ce938f704e374",
+            "badges": [
+                {
+                    "id": "4",
+                    "src": "https://cdn.yapper.shop/assets/badges/3.png",
+                    "name": "Shop Archives Bug Hunter",
+                    "support": "https://support.yapper.shop/#page=1"
+                }
+            ],
+            "system": false,
+            "username": "cerll",
+            "global_name": null
+        },
+        "items": {
+            "id": "1377377712200744990",
+            "name": "Nameplates Vol. 2"
+        }
+    },
+    {
         "id": 192,
         "rating": 1,
         "review_text": "Ugly, recreateable in after effects within 5 minutes. Lazy work.",
