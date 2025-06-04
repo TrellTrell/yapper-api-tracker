@@ -68,6 +68,40 @@
         }
     },
     {
+        "id": 195,
+        "rating": 5,
+        "review_text": "well at least the deltarune looking one looks cool.",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "system_type": 0,
+        "created_at": "2025-06-04T21:33:32.273",
+        "users": {
+            "id": "1147940825330876538",
+            "avatar": "0646f9363e3ceb535c7d091ad1c280bd",
+            "badges": [
+                {
+                    "id": "1",
+                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
+                    "name": "Shop Archives Staff",
+                    "support": "https://support.yapper.shop/#page=1"
+                },
+                {
+                    "id": "4",
+                    "src": "https://cdn.yapper.shop/assets/badges/3.png",
+                    "name": "Shop Archives Bug Hunter",
+                    "support": "https://support.yapper.shop/#page=1"
+                }
+            ],
+            "system": false,
+            "username": "jellythecutie",
+            "global_name": "Jelly💝"
+        },
+        "items": {
+            "id": "1377377712200744990",
+            "name": "Nameplates Vol. 2"
+        }
+    },
+    {
         "id": 194,
         "rating": 5,
         "review_text": "MORE NAMEPLATES GIVE ME EVEN MORE I NEED EVEN MORE NAMEPLATES PLEASE",
