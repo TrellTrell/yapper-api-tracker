@@ -28,6 +28,27 @@
         }
     },
     {
+        "id": 196,
+        "rating": 5,
+        "review_text": "ight",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "system_type": 0,
+        "created_at": "2025-06-09T10:16:07.351",
+        "users": {
+            "id": "929208515883569182",
+            "avatar": "a_f94a8560b38848082a4c4b4a1cc1b350",
+            "badges": null,
+            "system": false,
+            "username": "krstlskll.official",
+            "global_name": "KRY$TAL⚝❀"
+        },
+        "items": {
+            "id": "1309309974266118144",
+            "name": "Special Events 2"
+        }
+    },
+    {
         "id": 195,
         "rating": 5,
         "review_text": "well at least the deltarune looking one looks cool.",
