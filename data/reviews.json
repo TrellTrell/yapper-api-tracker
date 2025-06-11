@@ -28,6 +28,27 @@
         }
     },
     {
+        "id": 211,
+        "rating": 1,
+        "review_text": "too expensive. i will not buy collab categories once again",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "system_type": 0,
+        "created_at": "2025-06-11T12:44:35.746",
+        "users": {
+            "id": "1151500516380119091",
+            "avatar": "a9287f2a50bf23db9daf1f500e0048ec",
+            "badges": null,
+            "system": false,
+            "username": "polskaserver",
+            "global_name": "Polska Server"
+        },
+        "items": {
+            "id": "1379220459316445257",
+            "name": "Magic: The Gathering"
+        }
+    },
+    {
         "id": 209,
         "rating": 4,
         "review_text": "These nameplates are so much better than the ones we have now.",
