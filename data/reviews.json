@@ -28,6 +28,70 @@
         }
     },
     {
+        "id": 212,
+        "rating": 5,
+        "review_text": "sigma",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "system_type": 0,
+        "created_at": "2025-06-13T04:00:47.159",
+        "users": {
+            "id": "1224078342341529683",
+            "avatar": "6571027c70a93c97d1f1e0ad29521e8e",
+            "badges": [
+                {
+                    "id": "6",
+                    "src": "https://cdn.yapper.shop/assets/badges/6.png",
+                    "name": "Flower Girl",
+                    "support": null
+                },
+                {
+                    "id": "1",
+                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
+                    "name": "Shop Archives Staff",
+                    "support": "https://support.yapper.shop/#page=1"
+                },
+                {
+                    "id": "7",
+                    "src": "https://cdn.yapper.shop/assets/badges/7.png",
+                    "name": "Official Server Booster",
+                    "support": "https://support.yapper.shop/#page=1"
+                },
+                {
+                    "id": "2",
+                    "src": "https://cdn.yapper.shop/assets/badges/2.png",
+                    "name": "Collectibles Dataminer",
+                    "support": "https://support.yapper.shop/#page=1"
+                },
+                {
+                    "id": "3",
+                    "src": "https://cdn.yapper.shop/assets/badges/4.png",
+                    "name": "Shop Archives Bug Hunter",
+                    "support": "https://support.yapper.shop/#page=1"
+                },
+                {
+                    "id": "4",
+                    "src": "https://cdn.yapper.shop/assets/badges/3.png",
+                    "name": "Shop Archives Bug Hunter",
+                    "support": "https://support.yapper.shop/#page=1"
+                },
+                {
+                    "id": "5",
+                    "src": "https://cdn.yapper.shop/assets/badges/5.png",
+                    "name": "Github Contributor",
+                    "support": "https://support.yapper.shop/#page=1"
+                }
+            ],
+            "system": false,
+            "username": "zywenth",
+            "global_name": "Thumpus"
+        },
+        "items": {
+            "id": "0",
+            "name": "Category with no SKU ID"
+        }
+    },
+    {
         "id": 211,
         "rating": 1,
         "review_text": "too expensive. i will not buy collab categories once again",
