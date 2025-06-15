@@ -122,12 +122,6 @@
             "avatar": "ba26a96ab912fc88ee6945247ab08c75",
             "badges": [
                 {
-                    "id": "1",
-                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
-                    "name": "Shop Archives Staff",
-                    "support": "https://support.yapper.shop/#page=1"
-                },
-                {
                     "id": "3",
                     "src": "https://cdn.yapper.shop/assets/badges/4.png",
                     "name": "Shop Archives Bug Hunter",
