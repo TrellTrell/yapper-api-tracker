@@ -110,6 +110,40 @@
         }
     },
     {
+        "id": 218,
+        "rating": 2,
+        "review_text": "Stop doing collabs and just make an original category",
+        "review_flag_type": 0,
+        "report_type": 0,
+        "system_type": 0,
+        "created_at": "2025-06-15T05:43:29.452",
+        "users": {
+            "id": "1134293814887075880",
+            "avatar": "ba26a96ab912fc88ee6945247ab08c75",
+            "badges": [
+                {
+                    "id": "1",
+                    "src": "https://cdn.yapper.shop/assets/badges/1.png",
+                    "name": "Shop Archives Staff",
+                    "support": "https://support.yapper.shop/#page=1"
+                },
+                {
+                    "id": "3",
+                    "src": "https://cdn.yapper.shop/assets/badges/4.png",
+                    "name": "Shop Archives Bug Hunter",
+                    "support": "https://support.yapper.shop/#page=1"
+                }
+            ],
+            "system": false,
+            "username": "beck_ie",
+            "global_name": "CantaloupeCatgirl"
+        },
+        "items": {
+            "id": "1379220459316445257",
+            "name": "Magic: The Gathering"
+        }
+    },
+    {
         "id": 214,
         "rating": 1,
         "review_text": "what is this new redesign of yapper shop :pray: also what is this",
